@@ -6,20 +6,16 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Études sur la littérature française au XIXe siècle</title>
-        <author>Alexandre Vinet</author>
+        <title>Armance</title>
+        <author key="Stendhal (1783-1842)">Stendhal</author>
       </titleStmt>
       <editionStmt>
         <respStmt>
-          <name>Stella Louis </name>
+          <name>Stella Louis</name>
           <resp>Édition TEI</resp>
         </respStmt>
       </editionStmt>
-      <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2016</date>
-        <availability status="restricted"/>
-      </publicationStmt>
+      <publicationStmt/>
       <sourceDesc>
         <bibl>
           <ref target="http://www.ebooksgratuits.com/details.php?book=1802">http://www.ebooksgratuits.com/details.php?book=1802</ref>
@@ -28,23 +24,23 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1923"/>
+        <date when="1827"/>
       </creation>
       <langUsage>
-        <language>fr</language>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <div>
-        <head>Préface de l’éditeur <lb/></head>
+        <head>Préface de l’éditeur</head>
         <p>Jamais livre n’eut plus besoin de préface. On ne le comprend pas sans explication. L’auteur y parle sans cesse d’un secret qu’il ne révèle jamais, afin de raconter honnêtement une histoire assez scabreuse. Il se félicitait de sa décence, mais il l’exagéra à tel point qu’elle apparaît comme une sorte de défaut dans une œuvre par ailleurs pleine d’intérêt. Amusante erreur qu’il faut bien relever une fois de plus : ce Stendhal que les Manuels représentent comme un cynique effronté, pèche ici encore par excès de pudeur.</p>
         <p>Il est vrai qu’en 1827 on imprimait un peu moins crûment qu’aujourd’hui, ce qui avait rapport à certains détails physiologiques. Ce n’est exactement qu’un siècle après la publication d’<hi rend="i">Armance</hi> que son thème initial, sous un titre fort clair emprunté à Térence et à La Fontaine, fit les beaux jours d’une scène parisienne : le drame était travesti en bouffonnerie, et le dialogue d’une telle transparence que pas un spectateur ne pouvait ignorer la disgrâce d’un mari voué auprès de son épouse à l’abstention la plus obligée.</p>
         <p>Qu’eût dit Henri Beyle, lorsque dans ses rêveries de jeunesse, il se voyait à Paris écrivant des comédies comme Molière, si quelqu’un fût venu lui proposer ce sujet même qu’il devait plus tard aborder dans son premier roman ? Sans doute eût-il répondu qu’il ne voyait point la matière à quelque étude de mœurs ou de caractère comme celles qu’il goûtait dans le <hi rend="i">Misanthrope</hi> ou dans <hi rend="i">les Précieuses</hi>. En revanche, à quarante-deux ans, devenu homme de lettres parce que la chute de Napoléon lui faisait des loisirs, il détesta moins jouer la difficulté. Il savait par surcroît que le roman, genre le plus libre qui soit et où toutes les préparations sont permises, peut souffrir des audaces partout ailleurs trop périlleuses. Il lui fallait néanmoins prendre toutes sortes de précautions pour traiter sous le règne vertueux de Charles X ce qu’il nommait lui-même dans sa Correspondance : « la plus grande des impossibilités de l’amour. »</p>
         <p>Sa résolution n’était pas sans hardiesse. Il n’avait cependant pas, en la prenant, le mérite de la nouveauté.</p>
-        <p rend="center noindent">*</p>
-        <p rend="center noindent">* *</p>
+        <ab type="ornament">*
+        <lb/>* *</ab>
         <p>La duchesse de Duras venait de publier deux petits ouvrages dont on avait beaucoup parlé : <hi rend="i">Ourika</hi> en 1824, et <hi rend="i">Édouard</hi> en 1825. « Elle semblait, selon Sainte-Beuve même, avoir pris à tâche de mettre en scène toutes les impossibilités sociales : l’union d’une négresse avec un jeune homme de bonne famille, le mariage d’un roturier avec une grande dame. On alla même jusqu’à lui attribuer une troisième impossibilité. » Elle avait écrit en effet une autre nouvelle intitulée <hi rend="i">Olivier ou le Secret</hi>. Comme elle le disait à une amie « C’est un défi, un sujet qu’on prétendait ne pouvoir être traité. » On y voyait, affirmait-on, Olivier, pour cause d’insuffisance physique, s’éloigner de la femme dont il était épris.</p>
         <p>Sans doute, Madame de Duras avait-elle emprunté son titre, M. Pierre Martino nous l’apprend, à un roman de Caroline Pichler, traduit librement de l’allemand en 1823 par M<hi rend="sup">me</hi> de Montolieu. Olivier de Hautefort, défiguré par la petite vérole, s’attirait, de la part de la jeune fille qu’il aimait, cette cruelle réplique : « Rendez-vous justice, Monsieur, pouvez-vous jamais inspirer l’amour ? » Cette phrase, répétée sur le frontispice de l’ouvrage, aurait aussi bien pu, détournée légèrement de son sens, servir d’épigraphe au livre de la duchesse, comme ensuite à celui de Stendhal.</p>
         <p>M<hi rend="sup">me</hi> de Duras n’imprima jamais cette nouvelle, mais elle l’avait lue à quelques amis. Des indiscrétions en firent durant une saison la fable des milieux littéraires et mondains, à tel point que H. de la Touche en conçut l’idée d’une fort piquante mystification.</p>
@@ -54,8 +50,8 @@
         <p>Stendhal qui fréquentait assidûment les salons littéraires, avait dû fort se réjouir de cette petite comédie. Dès le 18 janvier 1826, il envoie au <hi rend="i">New-Monthly Magazine</hi> un article dans lequel il rend copieusement compte d’<hi rend="i">Olivier</hi> comme d’une œuvre fort originale, et il feint de l’attribuer à la duchesse de Duras.</p>
         <p>Ce fut alors qu’il résolut sans aucun doute d’entrer en personne dans le jeu et de publier une aventure analogue en affectant lui aussi de laisser croire à l’œuvre d’une femme. Il projetait même d’appeler son livre <hi rend="i">Olivier</hi>, d’autant plus que c’était, disait-il, faire « <hi rend="i">exposition</hi> et exposition non indécente. Si je mettais Edmond ou Paul, beaucoup de gens ne devineraient pas. »</p>
         <p>Au moment où il écrivait, la précaution pouvait en effet paraître assez claire et suffisante aux yeux de quelques initiés. Mais plus tard, le principal personnage s’étant appelé Octave, une explication, devenue aujourd’hui indispensable, manqua du coup, même aux contemporains.</p>
-        <p rend="center noindent">*</p>
-        <p rend="center noindent">* *</p>
+        <ab type="ornament">*
+        <lb/>* *</ab>
         <p>Croira-t-on cependant que l’idée seule de reprendre une gageure, de prolonger une plaisanterie, ait suffi pour faire choisir à Henri Beyle le canevas dangereux de M<hi rend="sup">me</hi> de Duras et de La Touche ? En réalité, il ne détestait pas de faire allusion au délicat problème posé par ses devanciers. Il avait consacré déjà tout un chapitre de l’<hi rend="i">Amour</hi> à l’explication de ces histoires tragiques qui, d’après M<hi rend="sup">me</hi> de Sévigné, remplissent <hi rend="i">l’empire amoureux</hi>. Et il a rapporté dans ses <hi rend="i">Souvenirs d’Égotisme</hi> comment il fut lui-même victime de certaines défaillances passagères qui le firent ranger par quelques-uns dans cette caste infortunée à laquelle appartient le héros d’<hi rend="i">Armance</hi>. Injure dont, hâtons-nous de l’ajouter, des témoins non suspects l’ont depuis lors complètement lavé.</p>
         <p>Quoi qu’il en soit, c’est en toute connaissance de cause que Beyle entreprit d’exposer la crise passionnelle d’un <hi rend="i">babilan</hi>. (Babilan est un mot d’origine italienne, emprunté au Président de Brosses et au <hi rend="i">Voyage en Italie</hi> de Lalande, et que l’on a proposé de traduire ainsi « Amoureux platonique par décret de la nature. »)</p>
         <p>Dans le roman de Stendhal, Octave est donc un babilan, et ce qui semble à première vue paradoxal : un babilan amoureux. Jeune homme assez bizarre au demeurant et dont les singularités augmentent du jour où il aime sa cousine Armance. Il n’avoue son amour que parce que, blessé en duel, il se croit aux portes du tombeau. Guéri contre toute espérance, il essaie de rattraper son aveu. Mais Armance paraissant compromise, il l’épouse et se tue peu de jours après son mariage.</p>
@@ -88,16 +84,16 @@
         <p rend="i">11° Il épouse et se tue.</p>
         <p rend="i">J’avoue que ce plan me semble irréprochable.</p>
         <p>Comment ne pas donner raison à Stendhal ? En possession du secret d’Octave rien ne nous semble plus naturel et mieux agencé que ce continuel marivaudage entre Armance et lui. Les retours incessants, les balancements de leur passion illustrent à merveille les phases diverses de la cristallisation, que coupe le travail destructeur du doute mais qui renaît à chaque fois plus consciente, plus irrésistible.</p>
-        <p rend="center noindent">*</p>
-        <p rend="center noindent">* *</p>
+        <ab type="ornament">*
+        <lb/>* *</ab>
         <p>Stendhal, nous l’avons vu, songea à écrire <hi rend="i">Armance</hi> en janvier 1826 après avoir lu le roman de La Touche : <hi rend="i">Olivier</hi>.</p>
         <p>Il en commença la rédaction le 30 ou le 31, et il la poussa fort activement jusqu’au 8 février. À ce jour, le premier jet en étant à peu près terminé, il s’arrêta brusquement sans que nous sachions au juste pour quelle cause, et si son impuissance à travailler lui vient des difficultés de son sujet ou de ses chagrins intimes.</p>
         <p>Car cette même année voyait la fin de ses amours avec la comtesse Curial qu’il appelle d’ordinaire Menti. Il était en froid avec elle depuis octobre 1825 déjà. Le désaccord ne fit ensuite que s’accentuer. Il est même fort croyable que Stendhal n’entreprit, de fin juin à septembre 1826, son troisième voyage en Angleterre que pour trouver dans l’éloignement un palliatif à une situation qui chaque jour empirait. Néanmoins la rupture définitive lui fut signifiée peu après son retour. Le 15 septembre marque le point culminant de la crise sentimentale de Beyle. Alors, complètement désespéré, il songe au pistolet. Il lui faut un dérivatif, une puissante distraction : dès le 19 septembre il reprend <hi rend="i">Armance</hi> et se sauve à force de travail. Le 10 octobre il a terminé son livre ; il n’aura plus ensuite qu’à le polir.</p>
         <p>Soulignons en passant la rapidité que Stendhal met toujours à composer ses œuvres d’imagination il les écrit ou les dicte à bride abattue. Du 31 janvier au 8 février : neuf jours. Du 19 septembre au 10 octobre : vingt-deux jours. Il ne lui en faut pas davantage pour mettre son roman sur pied. Encore semble-t-il à qui parcourt ses notes que durant la première période il jette sur le papier une fiévreuse rédaction plus ou moins achevée au moment où il l’abandonne, et que durant la seconde période il se remet à une nouvelle et définitive version.</p>
         <p>De toute façon le 15 octobre il commence à revoir son manuscrit pour le style, mais il y ajoute désormais fort peu. Lui-même s’étonne du petit nombre de corrections qu’il y apporte en quatre ou cinq mois. Du moins dut-il soigneusement en surveiller la langue, et c’est certainement dans ce livre qu’elle est le plus châtiée. Plus tard, se relisant, il approuvera fréquemment la tournure choisie et la concision de sa pensée.</p>
         <p>Paul-Jean Toulet a fait remarquer combien, en dépit d’un <hi rend="i">lui</hi> répété, la dernière phrase demeure belle, émouvante même, comme tout le paragraphe qui termine Armance : « Et à minuit, le 3 mars, comme la lune se levait derrière le mont Kalos, un mélange d’opium et de digitale préparé par lui, délivra doucement Octave de cette vie qui avait été pour lui si agitée. »</p>
-        <p rend="center noindent">*</p>
-        <p rend="center noindent">* *</p>
+        <ab type="ornament">*
+        <lb/>* *</ab>
         <p>Beyle dut composer cette œuvre au numéro 10 de la rue Richepanse où il logea toute l’année 1826. L’année suivante, après quelques mois de séjour au numéro 6 de la rue Le Peletier, il occupait rue d’Amboise une belle chambre qui donnait sur la rue Richelieu quand l’éditeur Canel lui paya mille francs le droit de publier <hi rend="i">Armance</hi>. Cette somme lui permit de partir bientôt pour l’Italie. Auparavant il s’occupa de la correction de ses épreuves dont il revoyait environ deux feuilles par semaine. Sans doute jetait-il aussi un dernier regard sur son manuscrit, car il ne fournissait sa copie qu’au fur et à mesure des besoins de l’impression. Toujours est-il que le 17 juillet il avait terminé la correction du second tome et il envoyait à l’éditeur les quelques pages signées du nom de Stendhal qui devaient servir d’introduction à l’ouvrage anonyme. Il y attribuait son roman à une femme d’esprit dont il n’aurait pour sa part que corrigé le style. Trois jours plus tard il quittait Paris.</p>
         <p><hi rend="i">Armance</hi>, qui parut en trois tomes et sans nom d’auteur, chez Urbain Canel, 9, rue Saint-Germain-des-Prés, fut annoncée le 18 août dans le <hi rend="i">Journal de la Librairie</hi>.</p>
         <p>Mérimée avait rendu à Stendhal le service de chercher les épigraphes du livre, et il avait réussi à en pourvoir presque tous les chapitres. Mais il conseilla en vain à son ami de signer son roman pour ne pas sembler en avoir honte ni donner à entendre qu’il était mauvais. Il obtint seulement que le héros fut débaptisé : <hi rend="i">Olivier</hi> lui semblait avec raison un peu suranné. Ce nom fut donc changé contre celui d’Octave et l’ouvrage s’appela désormais <hi rend="i">Armance</hi>. Stendhal avait d’abord projeté d’adjoindre au titre cette mention <hi rend="i">Anecdotes du XIX<hi rend="sup">e</hi> siècle</hi>. Mérimée de son côté proposait d’ajouter un mot qui laisserait entendre que le roman était en quelque sorte une illustration des deux volumes publiés antérieurement sur l’amour. Mais c’est Urbain Canel qui trouva le sous-titre définitif : <hi rend="i">Quelques scènes d’un salon de Paris en 1827</hi>, qu’il jugeait meilleur pour la vente.</p>
@@ -110,7 +106,7 @@
         <p rend="right">Henri MARTINEAU.</p>
       </div>
       <div>
-        <head>Avant-propos <lb/></head>
+        <head>Avant-propos</head>
         <p>Une femme d’esprit, qui n’a pas des idées bien arrêtées sur les mérites littéraires, m’a prié, moi indigne, de corriger le style de ce roman. Je suis loin d’adopter certains sentiments politiques qui semblent mêlés à la narration ; voilà ce que j’avais besoin de dire au lecteur. L’aimable auteur et moi nous pensons d’une manière opposée sur bien des choses, mais nous avons également en horreur ce qu’on appelle des <hi rend="i">applications</hi>. On fait à Londres des romans très-piquants : <hi rend="i">Vivian Grey, Almak’s, High Life, Matilda</hi>, etc., qui ont besoin d’une <hi rend="i">clé</hi>. Ce sont des caricatures fort plaisantes contre des personnes que les hasards de la naissance ou de la fortune ont placées dans une position qu’on envie.</p>
         <p>Voilà un genre de mérite <hi rend="i">littéraire</hi> dont nous ne voulons point. L’auteur n’est pas entré, depuis 1814 au premier étage du palais des Tuileries ; il a tant d’orgueil, qu’il ne connaît pas même de nom les personnes qui se font sans doute remarquer dans un certain monde.</p>
         <p>Mais il a mis en scène des industriels et des privilégiés, dont il a fait la satire. Si l’on demandait des nouvelles du jardin des Tuileries aux tourterelles qui soupirent au faîte des grands arbres, elles diraient : « C’est une immense plaine de verdure où l’on jouit de la plus vive clarté. » Nous, promeneurs, nous répondrions : « C’est une promenade délicieuse et sombre où l’on est à l’abri de la chaleur et surtout du grand jour désolant en été. »</p>
@@ -118,22 +114,22 @@
         <p>Imputerez-vous à un tour méchant dans l’esprit de l’auteur les descriptions malveillantes et fausses que chaque parti fait des salons du parti opposé ? Exigerez-vous que des personnages passionnés soient de sages philosophes, c’est-à-dire n’aient point de passions ? En 1760 il fallait de la grâce, de l’esprit et pas beaucoup d’humeur, ni pas beaucoup d’honneur, comme disait le régent, pour gagner la faveur du maître et de la maîtresse.</p>
         <p>Il faut de l’économie, du travail opiniâtre, de la solidité et l’absence de toute illusion dans une tête, pour tirer parti de la machine à vapeur. Telle est la différence entre le siècle qui finit en 1789 et celui qui commença vers 1815.</p>
         <p>Napoléon chantonnait constamment en allant en Russie ces mots qu’il avait entendus si bien dits par Porto (dans la <hi rend="i">Molinara</hi>) :</p>
-        <p rend="center noindent i">Si batte nel mio cuore</p>
-        <p rend="center noindent"><hi rend="i">L’inchiostro e la farina</hi><note place="bottom">Faut-il être meunier, faut-il être notaire ?</note>.</p>
+        <quote rend="i"><p rend="center">Si batte nel mio cuore</p>
+          <p rend="center">L’inchiostro e la farina<note resp="author">Faut-il être meunier, faut-il être notaire ?</note>.</p></quote>
         <p>C’est ce que pourraient répéter bien des jeunes gens qui ont à la fois de la naissance et de l’esprit.</p>
         <p>En parlant de notre siècle, nous nous trouvons avoir esquissé deux des caractères principaux de la Nouvelle suivante. Elle n’a peut-être pas vingt pages qui avoisinent le danger de paraître satiriques ; mais l’auteur suit une autre route ; mais le siècle est triste, il a de l’humeur, et il faut prendre ses précautions avec lui, même en publiant une brochure qui, je l’ai déjà dit à l’auteur, sera oubliée au plus tard dans six mois, comme les meilleures de son espèce.</p>
         <p>En attendant, nous sollicitons un peu de l’indulgence que l’on a montrée aux auteurs de la comédie des <hi rend="i">Trois Quartiers</hi>. Ils ont présenté un miroir au public ; est-ce leur faute si des gens laids ont passé devant ce miroir ? De quel parti est un miroir ?</p>
         <p>On trouvera dans le style de ce roman des façons de parler naïves, que je n’ai pas eu le courage de changer. Rien d’ennuyeux pour moi comme l’emphase germanique et romantique. L’auteur disait : « Une trop grande recherche des tournures nobles produit à la fin du respect et de la sécheresse ; elles font lire avec plaisir une page, mais ce <hi rend="i">précieux charmant</hi> fait fermer le livre au bout du chapitre, et nous voulons qu’on lise je ne sais combien de chapitres ; laissez-moi donc ma simplicité agreste ou bourgeoise. »</p>
         <p>Notez que l’auteur serait au désespoir que je lui crusse un style <hi rend="i">bourgeois</hi>. Il y a de la fierté à l’infini dans ce cœur-là. Ce cœur appartient à une femme qui se croirait vieillie de dix ans si l’on savait son nom. D’ailleurs un tel sujet !…</p>
         <p rend="right">STENDHAL.</p>
-        <p rend="i">Saint-Gigouf, le 23 juillet 1827.</p>
+        <dateline>Saint-Gigouf, le <docDate when="1827-07-23">23 juillet 1827</docDate>.</dateline>
       </div>
       <div type="chapter">
-        <head>Chapitre I <lb/></head>
-        <p xml:lang="en" rend="right">It is old and plain</p>
-        <p xml:lang="en" rend="right">It is silly sooth</p>
-        <p xml:lang="en" rend="right">And dallies with the innocence of love.</p>
-        <p rend="right"><hi rend="i">Twelfth Night</hi>, act. II.</p>
+        <head>Chapitre I</head>
+        <epigraph xml:lang="en"><l>It is old and plain</l>
+        <l>It is silly sooth</l>
+        <l>And dallies with the innocence of love.</l>
+        <bibl><title>Twelfth Night</title>, act. II.</bibl></epigraph>
         <p>À peine âgé de vingt ans, Octave venait de sortir de l’École Polytechnique*. Son père, le marquis de Malivert, souhaita retenir son fils unique à Paris. Une fois qu’Octave se fut assuré que tel était le désir constant d’un père qu’il respectait et de sa mère qu’il aimait avec une sorte de passion, il renonça au projet d’entrer dans l’artillerie. Il aurait voulu passer quelques années dans un régiment, et ensuite donner sa démission jusqu’à la première guerre qu’il lui était assez égal de faire comme lieutenant ou avec le grade de colonel. C’est un exemple des singularités qui le rendaient odieux aux hommes vulgaires.</p>
         <p>Beaucoup d’esprit, une taille élevée, des manières nobles, de grands yeux noirs les plus beaux du monde auraient marqué la place d’Octave parmi les jeunes gens les plus distingués de la société, si quelque chose de sombre, empreint dans ces yeux si doux, n’eût porté à le plaindre plus qu’à l’envier. Il eût fait sensation s’il eût désiré parler ; mais Octave ne désirait rien, rien ne semblait lui causer ni peine ni plaisir. Fort souvent malade durant sa première jeunesse, depuis qu’il avait recouvré des forces et de la santé, on l’avait toujours vu se soumettre sans balancer à ce qui lui semblait prescrit par le devoir ; mais on eût dit que si le devoir n’avait pas élevé la voix, il n’y eût pas eu chez lui de motif pour agir. Peut-être quelque principe singulier, profondément empreint dans ce jeune cœur, et qui se trouvait en contradiction avec les événements de la vie réelle, tels qu’il les voyait se développer autour de lui, le portait-il à se peindre sous des images trop sombres, et sa vie à venir et ses rapports avec les hommes. Quelle que fût la cause de sa profonde mélancolie, Octave semblait misanthrope avant l’âge. Le commandeur de Soubirane, son oncle, dit un jour devant lui qu’il était effrayé de ce caractère.</p>
         <p>– Pourquoi me montrerais-je autre que je ne suis ? répondit froidement Octave. Votre neveu sera toujours sur la ligne de la raison.</p>
@@ -177,12 +173,12 @@
         <p>On éprouve une sorte de pudeur à interroger un être dont le bonheur paraît aussi fragile, et sa mère le regardait bien plus qu’elle n’osait lui parler. Dans les moments plus calmes, les yeux d’Octave semblaient songer à un bonheur absent ; on eût dit une âme tendre séparée par un long espace d’un objet uniquement chéri. Octave répondait avec sincérité aux questions que lui adressait sa mère, et cependant elle ne pouvait deviner le mystère de cette rêverie profonde et souvent agitée. Dès l’âge de quinze ans, Octave était ainsi, et M<hi rend="sup">me</hi> de Malivert n’avait jamais pensé sérieusement à la possibilité de quelque passion secrète. Octave n’était-il pas maître de lui et de sa fortune ?</p>
         <p>Elle observait constamment que la vie réelle, loin d’être une source d’émotions pour son fils, n’avait d’autre effet que de l’impatienter, comme si elle fût venue le distraire et l’arracher d’une façon importune à sa chère rêverie. Au malheur près de cette manière de vivre qui semblait étrangère à tout ce qui l’environnait, M<hi rend="sup">me</hi> de Malivert ne pouvait s’empêcher de reconnaître chez Octave une âme droite et forte, toute de génie et d’honneur. Mais cette âme savait fort bien quels étaient ses droits à l’indépendance et à la liberté, et ses nobles qualités s’alliaient étrangement avec une profondeur de dissimulation incroyable à cet âge. Cette cruelle réalité vint détruire, en un instant, tous les rêves de bonheur qui avaient porté le calme dans l’imagination de M<hi rend="sup">me</hi> de Malivert.</p>
         <p>Rien n’était plus importun à son fils, et l’on peut dire plus odieux, car il ne savait pas aimer ou haïr à demi, que la société de son oncle le commandeur, et cependant tout le monde croyait à la maison qu’il aimait par-dessus tout faire la partie d’échecs de M. de Soubirane, ou aller avec lui <hi rend="i">flâner</hi> sur le boulevard. Ce mot était du commandeur, qui, malgré ses soixante ans, avait autant de prétentions pour le moins qu’en 1789 ; seulement la fatuité du raisonnement et de la profondeur avait remplacé les affectations de la jeunesse qui ont du moins pour excuse les grâces et la gaieté. Cet exemple d’une dissimulation aussi facile effrayait M<hi rend="sup">me</hi> de Malivert. « J’ai questionné mon fils sur le plaisir qu’il trouve à vivre avec son oncle, et il m’a répondu par la vérité ; mais, se disait-elle, qui sait si quelque étrange dessein ne se cache pas au fond de cette âme singulière ? Et si jamais je ne l’interroge à ce sujet, jamais de lui-même il n’aura l’idée de m’en parler. Je suis une simple femme, se disait M<hi rend="sup">me</hi> de Malivert, éclairée uniquement sur quelques petits devoirs à ma portée. Comment oserais-je me croire faite pour donner des conseils à un être aussi fort et aussi singulier ? Je n’ai point pour le consulter d’ami doué d’une raison assez supérieure ; d’ailleurs, puis-je trahir la confiance d’Octave ; ne lui ai-je pas promis un secret absolu ? »</p>
-        <p>Après que ces tristes pensées l’eurent agitée jusqu’au jour, M<hi rend="sup">me</hi> de Malivert conclut, comme de coutume, qu’elle devait employer toute l’influence qu’elle avait sur son fils pour l’engager à aller beaucoup chez M<hi rend="sup">me</hi> la marquise de Bonnivet. C’était son amie intime et sa cousine, femme de la plus haute considération, et dont le salon réunissait souvent ce qu’il y a de plus distingué dans la bonne compagnie. « Mon métier à moi, se disait M<hi rend="sup">me</hi> de Malivert, c’est de faire la cour aux gens de mérite que je vois chez M<hi rend="sup">me</hi> de Bonnivet afin de savoir ce qu’ils pensent d’Octave. » On allait chercher dans ce salon le plaisir d’être de la société de M<hi rend="sup">me</hi> de Bonnivet, et l’appui de son mari, courtisan habile chargé d’ans et d’honneurs, et presque aussi bien venu de son maître que cet aimable amiral de Bonnivet, son aïeul, qui fit faire tant de sottises à François I<hi rend="sup">er</hi> et s’en punit si noblement<note place="bottom">À la bataille de Pavie, sur le soir, voyant que tout était perdu, l’amiral s’écria : « Il ne sera pas dit que je survis à un tel désastre » ; et s’élançant, la visière levée, au milieu des ennemis, il eut la consolation d’en tuer plusieurs avant que de tomber percé de coups (24 février 1525).</note>.</p>
+        <p>Après que ces tristes pensées l’eurent agitée jusqu’au jour, M<hi rend="sup">me</hi> de Malivert conclut, comme de coutume, qu’elle devait employer toute l’influence qu’elle avait sur son fils pour l’engager à aller beaucoup chez M<hi rend="sup">me</hi> la marquise de Bonnivet. C’était son amie intime et sa cousine, femme de la plus haute considération, et dont le salon réunissait souvent ce qu’il y a de plus distingué dans la bonne compagnie. « Mon métier à moi, se disait M<hi rend="sup">me</hi> de Malivert, c’est de faire la cour aux gens de mérite que je vois chez M<hi rend="sup">me</hi> de Bonnivet afin de savoir ce qu’ils pensent d’Octave. » On allait chercher dans ce salon le plaisir d’être de la société de M<hi rend="sup">me</hi> de Bonnivet, et l’appui de son mari, courtisan habile chargé d’ans et d’honneurs, et presque aussi bien venu de son maître que cet aimable amiral de Bonnivet, son aïeul, qui fit faire tant de sottises à François I<hi rend="sup">er</hi> et s’en punit si noblement<note resp="author">À la bataille de Pavie, sur le soir, voyant que tout était perdu, l’amiral s’écria : « Il ne sera pas dit que je survis à un tel désastre » ; et s’élançant, la visière levée, au milieu des ennemis, il eut la consolation d’en tuer plusieurs avant que de tomber percé de coups (24 février 1525).</note>.</p>
       </div>
       <div type="chapter">
         <head>Chapitre II</head>
-        <p rend="margin noindent">Melancholy mark’d him for her own, whose ambitions heart overrates the happiness he cannot enjoy.</p>
-        <p rend="right">MARLOW</p>
+        <epigraph xml:lang="en"><p>Melancholy mark’d him for her own, whose ambitions heart overrates the happiness he cannot enjoy.</p>
+          <bibl>MARLOW</bibl></epigraph>
         <p>Le lendemain, dès huit heures du matin, il se fit un grand changement dans la maison de M<hi rend="sup">me</hi> de Malivert. Toutes les sonnettes se trouvèrent tout à coup en mouvement. Bientôt le vieux marquis se fit annoncer chez sa femme qui était encore au lit ; lui-même ne s’était pas donné le temps de s’habiller. Il vint l’embrasser les larmes aux yeux :</p>
         <p>– Ma chère amie, lui dit-il, nous verrons nos petits-enfants avant que de mourir, et le bon vieillard pleurait à chaudes larmes. Dieu sait, ajouta-t-il, que ce n’est pas l’idée de cesser d’être un gueux qui me met en cet état… La loi d’indemnité est certaine et vous aurez deux millions.</p>
         <p>À ce moment Octave, que le marquis avait fait appeler, fit demander la permission d’entrer ; son père se leva pour aller se jeter dans ses bras. Octave vit des larmes et peut-être se méprit sur leur cause ; car une rougeur presque imperceptible parut sur ses joues si pâles.</p>
@@ -213,14 +209,14 @@
         <p>Cette amère réflexion était notée en caractères grecs. Ensuite il déchiffra sur son piano tout un acte de <hi rend="i">Don Juan</hi>, et les accords si sombres de Mozart lui rendirent la paix de l’âme.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre III <lb/></head>
-        <p xml:lang="en" rend="right">As the most forward bud</p>
-        <p xml:lang="en" rend="right">Is eaten by the canker ere it blow,</p>
-        <p xml:lang="en" rend="right">Even so by love the young and tender wit</p>
-        <p xml:lang="en" rend="right">Is turn’d to folly…</p>
-        <p xml:lang="en" rend="right">… So eating love</p>
-        <p xml:lang="en" rend="right">Inhabits in the finest wits of all.</p>
-        <p rend="right"><hi xml:lang="en" rend="i">Two Gentlemen of Verona</hi>, act. I.</p>
+        <head>Chapitre III</head>
+        <epigraph xml:lang="en"><l>As the most forward bud</l>
+        <l>Is eaten by the canker ere it blow,</l>
+        <l>Even so by love the young and tender wit</l>
+        <l>Is turn’d to folly…</l>
+        <l>… So eating love</l>
+        <l>Inhabits in the finest wits of all.</l>
+        <bibl><title>Two Gentlemen of Verona</title>, act. I.</bibl></epigraph>
         <p>Ce n’était pas toujours de nuit et seul qu’Octave était saisi par ces accès de désespoir. Une violence extrême, une méchanceté extraordinaire marquaient alors toutes ses actions, et sans doute, s’il n’eût été qu’un pauvre étudiant en droit, sans parents ni protection, on l’eût enfermé comme fou. Mais aussi dans cette position sociale, il n’eût pas eu l’occasion d’acquérir cette élégance de manières qui, venant polir un caractère aussi singulier, faisait de lui un être à part, même dans la société de la cour. Octave devait un peu cette extrême distinction à l’expression de ses traits ; elle avait de la force et de la douceur et non point de la force et de la dureté, comme il arrive parmi le vulgaire des hommes qui doivent un regard à leur beauté. Il possédait naturellement l’art difficile de communiquer sa pensée, quelle qu’elle fût, sans jamais offenser ou du moins sans jamais infliger d’offense inutile, et grâces à cette mesure parfaite dans les relations ordinaires de la vie, l’idée de folie était éloignée.</p>
         <p>Il n’y avait pas un an qu’un jeune laquais, effrayé de la figure d’Octave, ayant eu l’air de s’opposer à son passage, un soir qu’il sortait en courant du salon de sa mère, Octave, furieux, s’était écrié :</p>
         <p>– Qui es-tu pour t’opposer à moi ! si tu es fort, fais preuve de force.</p>
@@ -249,9 +245,9 @@
         <p>– Oui, mon ami, dit le commandeur, qui prit ce mouvement pour un signe de doute, <hi rend="i">à coup sûr</hi>. J’ai un peu négligé la comtesse depuis son procédé ridicule chez M. le prince de S… ; mais enfin nous sommes un peu parents, et je te quitte pour aller chercher notre ami commun, le duc de *** qui nous rapatriera.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre IV <lb/></head>
-        <p rend="margin noindent">Half a dupe, half duping, the first deceived perhaps by her deceit and fair words, as all those philosophers. Philosophers they say ? mark this, Diego, the devil can cite scripture for his purpose. O, what a goodly outside falsehood hath !</p>
-        <p rend="right">MASSINGER.</p>
+        <head>Chapitre IV</head>
+        <epigraph xml:lang="en"><p>Half a dupe, half duping, the first deceived perhaps by her deceit and fair words, as all those philosophers. Philosophers they say ? mark this, Diego, the devil can cite scripture for his purpose. O, what a goodly outside falsehood hath !</p>
+          <bibl>MASSINGER.</bibl></epigraph>
         <p>La sotte apparition du commandeur faillit replonger Octave dans sa misanthropie de la veille. Son dégoût pour les hommes était au comble, quand son domestique lui remit un gros volume enveloppé avec beaucoup de soin dans du papier vélin d’Angleterre. L’empreinte du cachet était supérieurement gravée, mais l’objet peu attrayant ; sur un champ de sable on voyait deux os en sautoir. Octave qui avait un goût parfait, admira la vérité du dessin de ces deux <hi rend="i">tibias</hi> et la perfection de la gravure. « C’est de l’école de Pikler, se dit-il ; ce sera quelque folie de ma cousine la dévote M<hi rend="sup">me</hi> de C***. » Il fut détrompé en voyant un magnifique exemplaire de la Bible, relié par Thouvenin. « Les dévotes ne donnent pas la Bible », dit Octave en ouvrant la lettre d’envoi ; mais il chercha en vain la signature, il n’y en avait pas, et il jeta la lettre sous la cheminée. Un moment après, son domestique, le vieux Saint-Jacques, entra avec un petit air malin.</p>
         <p>– Qui a remis ce paquet ? dit Octave.</p>
         <p>– C’est un mystère, on veut se cacher de M. le vicomte ; mais c’est tout simplement le vieux Perrin qui l’a déposé chez le portier, et s’est sauvé comme un voleur.</p>
@@ -279,13 +275,13 @@
       </div>
       <div type="chapter">
         <head>Chapitre V</head>
-        <p xml:lang="en" rend="right">Her glossy hair was cluster’d o’er a brow</p>
-        <p xml:lang="en" rend="right">Bright with intelligence, and fair and smooth ;</p>
-        <p rend="right">Her eyebrow’s shape was like the aerial bow,</p>
-        <p xml:lang="en" rend="right">Her cheek all purple with the beam of youth,</p>
-        <p xml:lang="en" rend="right">Mounting, at times, to a transparent glow,</p>
-        <p xml:lang="en" rend="right">As if her veins ran lightning…</p>
-        <p rend="right">Don Juan, c. I.</p>
+        <epigraph xml:lang="en"><l>Her glossy hair was cluster’d o’er a brow</l>
+        <l>Bright with intelligence, and fair and smooth ;</l>
+        <l>Her eyebrow’s shape was like the aerial bow,</l>
+        <l>Her cheek all purple with the beam of youth,</l>
+        <l>Mounting, at times, to a transparent glow,</l>
+        <l>As if her veins ran lightning…</l>
+        <bibl><title>Don Juan</title>, c. I.</bibl></epigraph>
         <p>« Comment pourrai-je prouver à M<hi rend="sup">lle</hi> de Zohiloff, par des faits et non par de vaines paroles, que le plaisir de voir quadrupler la fortune de mon père ne m’a pas absolument tourné la tête ? » Chercher une réponse à cette question fut pendant vingt-quatre heures l’unique occupation d’Octave. Pour la première fois de sa vie, son âme était entraînée à son insu.</p>
         <p>Depuis bien des années il avait toujours eu la conscience de ses sentiments, et commandait à leur attention les objets qui lui semblaient raisonnables. C’était au contraire avec toute l’impatience d’un jeune homme de vingt ans qu’il attendait l’heure à laquelle il devait rencontrer M<hi rend="sup">lle</hi> de Zohiloff. Il n’avait pas le plus petit doute sur la possibilité de parler à une personne qu’il voyait deux fois presque tous les jours ; il n’était embarrassé que par le choix des paroles les plus propres à la convaincre. « Car, enfin, disait-il, je ne puis pas trouver en vingt-quatre heures d’action prouvant d’une manière décisive que je suis au-dessus de la petitesse dont elle m’accuse au fond de son cœur, et il doit m’être permis de protester d’abord par des paroles. » Beaucoup de paroles en effet se présentaient successivement à lui ; tantôt elles lui semblaient avoir trop d’emphase ; tantôt il craignait de traiter avec trop de légèreté une imputation aussi grave. Il n’était point encore décidé sur ce qu’il devait dire à M<hi rend="sup">lle</hi> de Zohiloff, lorsque onze heures sonnèrent, et il arriva l’un des premiers dans le salon de l’hôtel de Bonnivet. Mais quel ne fut pas son étonnement quand il remarqua que M<hi rend="sup">lle</hi> de Zohiloff qui lui adressa la parole plusieurs fois pendant la soirée, et en apparence comme à l’ordinaire, lui ôtait cependant toutes les occasions de lui dire un mot destiné à n’être entendu que d’elle ! Octave fut vivement piqué, cette soirée passa comme un éclair.</p>
         <p>Le lendemain, il fut aussi malheureux ; le surlendemain, les jours suivants, il ne put pas davantage parler à Armance. Chaque jour il espérait trouver l’occasion de dire ce mot si essentiel pour son honneur, et chaque jour, sans qu’on pût apercevoir la moindre affectation dans la conduite de M<hi rend="sup">lle</hi> de Zohiloff, il voyait son espoir s’évanouir. Il perdait l’amitié et l’estime de la seule personne qui lui semblât digne de la sienne, parce qu’on lui croyait des sentiments opposés à ceux qu’il avait réellement. Rien assurément n’était plus flatteur au fond, mais rien aussi n’était plus impatientant. Octave fut profondément préoccupé de ce qui lui arrivait ; il eut besoin de plusieurs jours pour s’accoutumer à sa nouvelle position. Sans y songer, lui qui avait tant aimé le silence, prit l’habitude de parler beaucoup lorsque M<hi rend="sup">lle</hi> de Zohiloff était à portée de l’entendre. À la vérité, peu lui importait de paraître bizarre ou décousu. À quelque femme brillante ou considérable qu’il adressât la parole, il ne parlait jamais en effet qu’à M<hi rend="sup">lle</hi> de Zohiloff et pour elle.</p>
@@ -321,11 +317,11 @@
         <p>La malignité d’Octave vit avec plaisir tout le succès que ce raisonnement obtenait auprès des femmes de la société. Elles laissaient entendre qu’Armance avait raison de tout sacrifier aux devoirs que lui imposait son dévouement pour sa tante, et leurs regards semblaient dire de tout sacrifier à ses devoirs de dame de compagnie. La fierté d’Octave était bien loin de songer à répliquer à cette insinuation. Pendant que la malignité en jouissait, il se livrait en silence et avec délices à un petit mouvement d’admiration passionnée. Il sentait plutôt qu’il ne se le disait : « Cette femme ainsi attaquée par toutes les autres est cependant la seule ici digne de mon estime ! Elle est aussi pauvre que ces autres femmes sont riches, et à elle seule il pourrait être permis de s’exagérer l’importance de l’argent. Elle le méprise pourtant, elle qui n’a pas mille écus de rente ; et il est uniquement et bassement adoré par ces femmes qui toutes jouissent de la plus grande aisance. »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre VI <lb/></head>
-        <p xml:lang="en" rend="right">Cromwell, I charge thee, fling away ambition ;</p>
-        <p xml:lang="en" rend="right">By that sin fell the angels, how can man then</p>
-        <p xml:lang="en" rend="right">The image of his Maker, hope to win by’t ?</p>
-        <p rend="right"><hi xml:lang="en" rend="i">King Henry VIII</hi>, act. III.</p>
+        <head>Chapitre VI</head>
+        <epigraph xml:lang="en"><l>Cromwell, I charge thee, fling away ambition ;</l>
+          <l>By that sin fell the angels, how can man then</l>
+          <l>The image of his Maker, hope to win by’t ?</l>
+          <bibl><title>King Henry VIII</title>, act. III.</bibl></epigraph>
         <p>Un soir, après l’établissement des parties et l’arrivée des grandes dames pour lesquelles M<hi rend="sup">me</hi> de Bonnivet se dérangeait, elle parlait à Octave avec un intérêt singulier :</p>
         <p>– Je ne conçois pas votre être, lui répétait-elle pour la centième fois.</p>
         <p>– Si vous me juriez, lui répondit-il, de ne jamais trahir mon secret, je vous le confierais, et personne ne l’a jamais su.</p>
@@ -370,16 +366,16 @@
         <p>Elle fut bien heureuse de voir venir de loin une femme de chambre ; la nécessité de cacher ses larmes à cette fille lui fournit un prétexte pour quitter le jardin.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre VII <lb/></head>
-        <p xml:lang="en" rend="right">But passion most dissembles yet betrays</p>
-        <p xml:lang="en" rend="right">Even by its darkness ; as the blackest sky</p>
-        <p xml:lang="en" rend="right">Foretells the heaviest tempest, it displays</p>
-        <p xml:lang="en" rend="right">Its workings through the vainly guarded eye,</p>
-        <p xml:lang="en" rend="right">And in whatever aspect it arrays</p>
-        <p xml:lang="en" rend="right">Itself,’tis still the same hypocrisy ;</p>
-        <p xml:lang="en" rend="right">Coldness or anger, even disdain or hate,</p>
-        <p xml:lang="en" rend="right">Are masks it often wears, and still too late.</p>
-        <p rend="right"><hi rend="i">Don Juan</hi>, c. I.</p>
+        <head>Chapitre VII</head>
+        <epigraph xml:lang="en"><l>But passion most dissembles yet betrays</l>
+        <l>Even by its darkness ; as the blackest sky</l>
+        <l>Foretells the heaviest tempest, it displays</l>
+        <l>Its workings through the vainly guarded eye,</l>
+        <l>And in whatever aspect it arrays</l>
+        <l>Itself,’tis still the same hypocrisy ;</l>
+        <l>Coldness or anger, even disdain or hate,</l>
+        <l>Are masks it often wears, and still too late.</l>
+        <bibl><title>Don Juan</title>, c. I.</bibl></epigraph>
         <p>Octave resta immobile, les yeux remplis de larmes, et ne sachant s’il devait se réjouir ou s’affliger. Après une si longue attente, il avait donc pu livrer enfin cette bataille tant désirée, mais l’avait-il perdue ou gagnée ? « Si elle est perdue, se dit-il, tout est fini pour moi. Armance me croit tellement coupable qu’elle feint de se payer de la première excuse que je présente, et ne daigne pas entrer en explication avec un homme si peu digne de son amitié. Que veulent dire ces paroles si brèves : <hi rend="i">Vous avez toute mon estime</hi> ? Peut-on rien voir de plus froid ? Est-ce un retour parfait à l’ancienne intimité ? Est-ce une manière polie de couper court à une explication désagréable ? » Le départ d’Armance, si brusque, lui semblait surtout de bien mauvais augure.</p>
         <p>Pendant qu’Octave en proie à un étonnement profond tâchait de se rappeler exactement ce qui venait de lui arriver, essayait d’en tirer des conséquences, et tremblait, au milieu de ses efforts pour raisonner juste, d’arriver tout à coup à quelque découverte décisive qui finît toute incertitude en lui prouvant que sa cousine le trouvait indigne de son estime, Armance était en proie à la plus vive douleur. Ses larmes la suffoquaient ; mais elles étaient de honte et non plus de bonheur.</p>
         <p>Elle se hâta de se renfermer dans sa chambre. « Grand Dieu, se disait-elle dans l’excès de sa confusion, qu’est-ce qu’Octave va penser de l’état où il m’a vue ? A-t-il compris mes larmes ? Hélas, puis-je en douter ? Depuis quand une simple confidence de l’amitié fait-elle répandre des pleurs à une fille de mon âge ? Ô Dieu ! après une telle honte comment oser reparaître devant lui ? Il manquait à l’horreur de ma situation d’avoir mérité ses mépris. Mais, se dit Armance, ce n’est pas aussi une simple confidence ; il y a trois mois que j’évitais de lui parler ; c’est une sorte de réconciliation entre amis qui étaient brouillés, et l’on dit qu’on pleure dans ces sortes de réconciliations ; oui, mais on ne prend pas la fuite, mais on n’est pas jeté dans le trouble le plus extrême.</p>
@@ -407,11 +403,11 @@
         <p>Mais toute la prétendue amabilité d’Octave avait disparu en un clin d’œil. Il venait de voir Méry qui revenait de la chambre d’Armance parce que sa mère avait demandé sa voiture, et Méry avait la figure renversée. Elle partit si vite qu’Octave ne put lui parler. Il sortit lui-même à l’instant. Il lui eût été impossible désormais de dire une parole à qui que ce soit. L’air affligé de M<hi rend="sup">lle</hi> de Tersan lui apprenait qu’il se passait quelque chose d’extraordinaire ; peut-être M<hi rend="sup">lle</hi> de Zohiloff allait-elle quitter Paris pour le fuir. Ce qui est admirable, c’est que notre philosophe n’eut pas la moindre idée qu’il aimait Armance d’amour. Il s’était fait les serments les plus forts contre cette passion, et comme il manquait de pénétration et non pas de caractère, il eût probablement tenu ses serments.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre VIII <lb/></head>
-        <p xml:lang="en" rend="right">What shall I do the while ? Where bide ? How live ?</p>
-        <p xml:lang="en" rend="right">Or in my life what comfort, when I am</p>
-        <p xml:lang="en" rend="right">Dead to him ?</p>
-        <p rend="right"><hi xml:lang="en" rend="i">Cymbeline</hi>, act. III.</p>
+        <head>Chapitre VIII</head>
+        <epigraph xml:lang="en"><l>What shall I do the while ? Where bide ? How live ?</l>
+        <l>Or in my life what comfort, when I am</l>
+        <l>Dead to him ?</l>
+        <bibl><title>Cymbeline</title>, act. III.</bibl></epigraph>
         <p>Armance était loin de se faire une semblable illusion. Il y avait déjà longtemps que voir Octave était le seul intérêt de sa vie. Lorsqu’un hasard imprévu était venu changer la position sociale de son jeune parent, que de combats avaient déchiré son âme ! Que d’excuses n’avait-elle pas inventées pour le changement soudain qui avait paru dans la conduite d’Octave ! Elle se demandait sans cesse : « A-t-il une âme vulgaire ? »</p>
         <p>Lorsque enfin elle fut parvenue à se prouver qu’Octave était fait pour sentir d’autres bonheurs que ceux de l’argent et de la vanité, un nouveau sujet de chagrins était venu s’emparer de son attention. « Je serais doublement méprisée, se disait-elle, si l’on soupçonnait mon sentiment pour lui ; moi la plus pauvre de toutes les jeunes filles qui paraissent dans le salon de M<hi rend="sup">me</hi> de Bonnivet. » Ce profond malheur qui la menaçait de toutes parts, et qui aurait dû engager Armance à se guérir de sa passion, ne fit, en la portant à une mélancolie profonde, que la livrer plus aveuglément au seul plaisir qui lui restât dans le monde, celui de songer à Octave.</p>
         <p>Tous les jours elle le voyait pendant plusieurs heures, et les petits événements de chaque journée venaient changer sa manière de penser sur son cousin ; comment eût-elle pu guérir ? C’est par crainte de se trahir et non par mépris, qu’elle avait mis tant d’attention à n’avoir jamais avec lui de conversation intime.</p>
@@ -452,9 +448,9 @@
         <p>Peu après, on remonta en calèche et Octave, qui ne trouvait plus rien à dire, se fit descendre au Gymnase.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre IX <lb/></head>
-        <p rend="margin noindent">Que la paix habite dans ton sein, pauvre logis, qui te gardes toi-même.</p>
-        <p rend="right"><hi rend="i">Cymbeline</hi>.</p>
+        <head>Chapitre IX</head>
+        <epigraph><p>Que la paix habite dans ton sein, pauvre logis, qui te gardes toi-même.</p>
+        <bibl><title>Cymbeline</title>.</bibl></epigraph>
         <p>La veille, après une journée affreuse, et dont on ne pourrait se former qu’une faible idée en pensant à l’état d’un malheureux dépourvu de courage, et qui se prépare à subir une opération de chirurgie souvent mortelle, une idée était apparue à Armance : « Je suis assez liée avec Octave pour lui dire qu’un ancien ami de ma famille songe à me marier. Si mes larmes m’ont trahie, cette confidence me rétablira dans son estime. Ce mariage prochain et les inquiétudes qu’il me cause, feront attribuer mes larmes à quelque allusion un peu trop directe à la situation où je me trouvais. S’il a un peu d’amour pour moi, hélas ! il s’en guérira, mais du moins je pourrai être son amie ; je ne serai pas exilée dans un couvent et condamnée à ne plus le voir, même une seule fois, dans toute ma vie. »</p>
         <p>Armance comprit, les jours suivants, qu’Octave cherchait à deviner quelle était la personne préférée. « Il faut qu’il connaisse l’homme dont il s’agit, se dit-elle en soupirant ; mon cruel devoir s’étend jusque-là ; ce n’est qu’à ce prix qu’il peut m’être permis de le voir encore. »</p>
         <p>Elle pensa au baron de Risset, ancien chef vendéen, personnage héroïque, qui paraissait assez souvent dans le salon de M<hi rend="sup">me</hi> de Bonnivet, mais qui y paraissait pour se taire.</p>
@@ -486,9 +482,9 @@
         <p>L’étonnement et l’affliction d’Armance furent extrêmes. Un instant elle éprouva un sentiment qui ressemblait à du mépris. Mais le lendemain, lorsqu’elle revit Octave, sa manière de voir sur ce qui est convenable dans la conduite d’un homme était bien changée. Elle trouvait dans le noble aveu de son cousin, et surtout dans ce serment si simple fait à elle, une raison de l’aimer davantage. Armance crut être assez sévère envers elle-même en faisant le vœu de quitter Paris et de ne jamais revoir Octave s’il reparaissait dans ces maisons si peu dignes de lui.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre X <lb/></head>
-        <p rend="margin noindent">O conoscenza ! non è senza il suo perché che il fedel prete ti chiamò : il più gran dei mali. Egli era tutto disturbato, e però non dubitava ancora, al più al più, dubitava di esser presto sul punto di dubitare. O conoscenza ! tu sei fatale a quelli nei quali l’oprar segue da vicino il credo.</p>
-        <p rend="right">IL CARDINAL GERDIL.</p>
+        <head>Chapitre X</head>
+        <epigraph xml:lang="it"><p>O conoscenza ! non è senza il suo perché che il fedel prete ti chiamò : il più gran dei mali. Egli era tutto disturbato, e però non dubitava ancora, al più al più, dubitava di esser presto sul punto di dubitare. O conoscenza ! tu sei fatale a quelli nei quali l’oprar segue da vicino il credo.</p>
+        <bibl>IL CARDINAL GERDIL.</bibl></epigraph>
         <p>Faut-il dire qu’Octave fut fidèle à sa promesse ? Il abandonna des plaisirs proscrits par Armance.</p>
         <p>Le besoin d’agir et le désir d’observer des choses nouvelles l’avaient poussé à voir la mauvaise compagnie, souvent moins ennuyeuse que la bonne. Dès qu’il était heureux, une sorte d’instinct le portait à se mêler avec les hommes ; il voulait les dominer.</p>
         <p>Pour la première fois, Octave avait entrevu l’ennui des manières trop parfaites et des excès de la froide politesse : le mauvais ton permet de parler de soi, à tort et à travers, et l’on est moins isolé. Lorsqu’on a servi du punch dans ces brillants salons de l’extrémité de la rue de Richelieu, que les étrangers prennent pour la bonne compagnie, on n’a pas cette sensation : je suis ici dans un désert d’hommes. Au contraire, on peut se croire vingt amis intimes, dont on ne sait pas le nom. Oserons-nous le dire au risque de compromettre, à la fois, et nous et notre héros ? Octave regretta quelques-uns de ses compagnons de souper.</p>
@@ -509,14 +505,14 @@
         <p>» Par exemple j’ai l’air d’être à demi converti au mysticisme allemand ; elle me demandera quelque démarche publique et par trop ridicule. Si je m’y soumets par amitié pour Armance, bientôt l’on me proposera quelque chose de tout à fait impossible. »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XI <lb/></head>
-        <p xml:lang="en" rend="right">Somewhat light as air.</p>
-        <p xml:lang="en" rend="right">There’s language in her eye, her cheek, her lip,</p>
-        <p xml:lang="en" rend="right">Nay, her foot speaks ; her wanton spirits look out</p>
-        <p xml:lang="en" rend="right">At every joint and motive of her body.</p>
-        <p xml:lang="en" rend="right">O these encounterers, so glib of tongue,</p>
-        <p xml:lang="en" rend="right">That give a ccosting welcome ere it comes.</p>
-        <p rend="right"><hi xml:lang="en" rend="i">Troilus and Cressida</hi>, act. IV.</p>
+        <head>Chapitre XI</head>
+        <epigraph xml:lang="en"><l>Somewhat light as air.</l>
+        <l>There’s language in her eye, her cheek, her lip,</l>
+        <l>Nay, her foot speaks ; her wanton spirits look out</l>
+        <l>At every joint and motive of her body.</l>
+        <l>O these encounterers, so glib of tongue,</l>
+        <l>That give a ccosting welcome ere it comes.</l>
+        <bibl><title>Troilus and Cressida</title>, act. IV.</bibl></epigraph>
         <p>Il était peu de salons agréables appartenant à la société, qui trois fois par an va chez le roi, dans lesquels Octave ne fût admis et fêté. Il remarqua la célébrité de M<hi rend="sup">me</hi> la comtesse d’Aumale. C’était la coquette la plus brillante et peut-être la plus spirituelle de l’époque. Un étranger de mauvaise humeur a dit que les femmes de la haute société en France ont un peu le tour d’esprit d’un vieil ambassadeur. C’était le caractère de l’enfance qui brillait dans les manières de M<hi rend="sup">me</hi> d’Aumale. La naïveté de ses reparties et la gaieté folle de ses actions, toujours inspirées par la circonstance du moment, faisaient le désespoir de ses rivales. Elle avait des caprices d’un imprévu admirable, et comment imiter un caprice ?</p>
         <p>Le naturel et l’imprévu n’étaient point la partie brillante de la conduite d’Octave. C’était un être tout mystère. Jamais d’étourderie chez lui, si ce n’est quelquefois dans ses conversations avec Armance. Mais il lui fallait la certitude de n’être pas interrompu à l’improviste. On ne pouvait lui reprocher de la fausseté ; il eût dédaigné de mentir, mais jamais il n’allait directement à son but.</p>
         <p>Octave prit à son service un valet de pied qui sortait de chez M<hi rend="sup">me</hi> d’Aumale ; cet homme, ancien soldat, était intéressé et très-fin. Octave le faisait monter à cheval avec lui, dans de grandes promenades de sept à huit lieues, qu’il faisait dans les bois qui entourent Paris, et il y avait des moments d’ennui apparent où il lui permettait de parler. En moins de quelques semaines, Octave eut les renseignements les plus certains sur la conduite de M<hi rend="sup">me</hi> d’Aumale. Cette jeune femme, qui s’était fort compromise par une étourderie sans bornes, méritait réellement toute l’estime que quelques personnes ne lui accordaient plus.</p>
@@ -537,12 +533,12 @@
         <p>En disant ces mots, M<hi rend="sup">me</hi> de Malivert se jeta dans les bras d’Armance. Ce moment fut le plus beau de la vie de cette pauvre fille ; de douces larmes inondaient son visage.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XII <lb/></head>
-        <p rend="right">Estavas, linda Ignez, posta em socego</p>
-        <p rend="right">De teus annos colhendo doce fruto</p>
-        <p rend="right">Naquelle engano da alma ledo e cego</p>
-        <p rend="right">Que a fortuna, naô deixa durar muito.</p>
-        <p rend="right"><hi rend="i">Os Lusiadas</hi>, cant. III.</p>
+        <head>Chapitre XII</head>
+<epigraph>        <l>Estavas, linda Ignez, posta em socego</l>
+  <l>De teus annos colhendo doce fruto</l>
+  <l>Naquelle engano da alma ledo e cego</l>
+  <l>Que a fortuna, naô deixa durar muito.</l>
+  <bibl><title>Os Lusiadas</title>, cant. III.</bibl></epigraph>
         <p>– Mais, chère maman, dit Armance longtemps après et lorsqu’on eut repris un peu la faculté de parler raison, Octave ne m’a jamais dit qu’il me fût attaché comme il me semble qu’un mari doit l’être à sa femme.</p>
         <p>– S’il ne fallait pas me lever pour te conduire devant un miroir, répondit M<hi rend="sup">me</hi> de Malivert, je te ferais voir tes yeux brillants de bonheur en ce moment, et je te prierais de me redire que tu n’es pas sûre du cœur d’Octave. J’en suis sûre, moi, qui ne suis que sa mère. Au reste, je ne me fais point illusion sur les défauts que peut avoir mon fils, et je ne veux pas de ta réponse avant huit grands jours.</p>
         <p>Je ne sais si c’est au sang sarmate qui circulait dans ses veines, ou à ses malheurs si précoces qu’Armance devait la faculté d’apercevoir d’un coup d’œil tout ce qu’un changement soudain dans la vie renfermait de conséquences. Et que cette nouvelle position des choses pût décider de son sort ou de celui d’un indifférent, elle en voyait les suites avec la même netteté. Cette force de caractère ou d’esprit lui valait à la fois les confidences de tous les jours et les réprimandes de M<hi rend="sup">me</hi> de Bonnivet. La marquise la consultait volontiers sur ses projets les plus intimes ; et dans d’autres moments :</p>
@@ -569,12 +565,12 @@
         <p>– Je ne sais pas ce que tu as fait à mon fils, afin de le décourager ; mais tout en m’avouant qu’il a pour toi l’attachement le plus profond, l’estime la plus parfaite, et qu’obtenir ta main serait à ses yeux le premier des biens, il ajoute que tu opposes un obstacle invincible à ses vœux les plus chers, et que certainement il ne voudrait pas te devoir aux persécutions que nous te ferions subir en sa faveur.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XIII <lb/></head>
-        <p rend="right">Ay ! que ya siento en mi cuidoso pecho</p>
-        <p rend="right">Labrarme poco a poco un vivo fuego</p>
-        <p rend="right">Y desde alli con movimiento blando</p>
-        <p rend="right">Ir por venas y huesos penetrando.</p>
-        <p rend="right"><hi rend="i">Araucana</hi>, c. XXII.</p>
+        <head>Chapitre XIII</head>
+        <epigraph><l>Ay ! que ya siento en mi cuidoso pecho</l>
+        <l>Labrarme poco a poco un vivo fuego</l>
+        <l>Y desde alli con movimiento blando</l>
+        <l>Ir por venas y huesos penetrando.</l>
+        <bibl><hi rend="i">Araucana</hi>, c. XXII.</bibl></epigraph>
         <p>L’extrême bonheur qui se peignit dans les yeux d’Armance consola M<hi rend="sup">me</hi> de Malivert, qui sentait bien quelque remords de mêler un petit mensonge à une négociation aussi grave. « Après tout, se disait-elle, quel mal peut-il y avoir de hâter le mariage de deux enfants charmants, mais un peu fiers, et qui ont l’un pour l’autre une passion telle qu’on en voit si rarement dans le monde ? Conserver la raison de mon fils, n’est-ce pas mon premier devoir ? »</p>
         <p>Le singulier parti auquel venait de se résoudre M<hi rend="sup">me</hi> de Malivert avait délivré Armance de la plus profonde douleur qu’elle eût éprouvée de sa vie. Un peu auparavant elle désirait la mort ; et ce mot, qu’on supposait prononcé par Octave, la plaçait au comble de la félicité. Elle était bien résolue à ne jamais accepter la main de son cousin ; mais ce mot charmant lui permettait de nouveau l’espoir de bien des années de bonheur. « Je pourrai l’aimer en secret, se disait-elle, pendant les six années qui s’écouleront avant son mariage, et je serai aussi heureuse et peut-être bien plus que si j’étais sa compagne. Ne dit-on pas que le mariage est le tombeau de l’amour, qu’il peut y avoir des mariages agréables, mais qu’il n’en est aucun de délicieux ? Je tremblerais d’épouser mon cousin. Si je ne le voyais pas le plus heureux des hommes, je serais moi-même au comble du désespoir. Vivant au contraire dans notre pure et sainte amitié, aucun des petits intérêts de la vie ne pourra jamais atteindre à la hauteur de nos sentiments et venir les flétrir. »</p>
         <p>Armance pesa avec tout le calme du bonheur les raisons qu’elle s’était données autrefois pour ne jamais accepter la main d’Octave. Je passerais dans le monde pour une dame de compagnie qui a séduit le fils de la maison. J’entends d’ici ce que dirait M<hi rend="sup">me</hi> la duchesse d’Ancre et même les femmes les plus respectables, par exemple la marquise de Seyssins qui voit dans Octave un époux pour l’une de ses filles.</p>
@@ -600,9 +596,9 @@
         <p>Octave passait pour méchant dans quelques sociétés, et les sots avaient de lui une peur instinctive ; à cette époque ils se réconcilièrent avec lui. Souvent il portait dans le monde tout le bonheur qu’il devait à sa cousine. On le craignit moins, on trouva son amabilité plus jeune. Il faut avouer que dans toutes ses démarches il y avait un peu de l’enivrement que donne ce genre de bonheur que l’on ne s’avoue pas à soi-même ; la vie coulait pour lui rapidement et avec délices. Ses raisonnements sur lui-même ne portaient plus l’empreinte de cette logique inexorable, dure, et se complaisant dans sa dureté, qui pendant sa première jeunesse avait dirigé toutes ses actions. Prenant souvent la parole sans savoir comment il finirait sa phrase, il parlait beaucoup mieux.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XIV <lb/></head>
-        <p rend="margin noindent">Il giovin cuore o non vede affatto i difetti di chi li sta vicino o li vede immensi. Error commune ai giovinetti che portono fuoco nell’interno dell’anima.</p>
-        <p rend="right">LAMPUGNANI.</p>
+        <head>Chapitre XIV</head>
+        <epigraph><p>Il giovin cuore o non vede affatto i difetti di chi li sta vicino o li vede immensi. Error commune ai giovinetti che portono fuoco nell’interno dell’anima.</p>
+        <p rend="right">LAMPUGNANI.</p></epigraph>
         <p>Un jour Octave apprit à Paris qu’un des hommes qu’il voyait le plus souvent et avec le plus d’agrément, qu’un de ses amis, comme on dit dans le monde, devait la belle fortune qu’il dépensait avec grâce à l’action la plus basse à ses yeux (un héritage capté). M<hi rend="sup">lle</hi> de Zohiloff, à laquelle il se hâta, dès son arrivée à Andilly, de faire part de cette fâcheuse découverte, trouva qu’il la supportait fort bien. Il n’eut point d’accès de misanthropie, il ne voulut point rompre outrageusement avec cet homme.</p>
         <p>Un autre jour, il revint de fort bonne heure d’un château de Picardie où il devait passer toute la soirée.</p>
         <p>– Que ces conversations sont insipides ! dit-il à Armance. Toujours la chasse, la beauté de la campagne, la musique de Rossini, les arts ! et encore ils mentent en s’y intéressant. Ces gens ont la sottise d’avoir peur, ils se croient dans une ville assiégée et s’interdisent de parler des nouvelles du siège. La pauvre espèce ! et que je suis contrarié d’en être !</p>
@@ -613,7 +609,7 @@
         <p>– Ne pas entendre.</p>
         <p>– Tel serait mon goût. Je ne suis pas en ce monde pour corriger les manières grossières ni les esprits de travers ; encore moins veux-je donner à cet homme, en lui parlant, le droit de me serrer la main dans la rue, quand il me rencontrera. Mais dans ce salon, j’ai le malheur de ne pas être exactement comme un autre. Plût à Dieu que je pusse y trouver <hi rend="i">l’égalité</hi> dont ces messieurs font tant de bruit ! Par exemple, que voulez-vous que je fasse du titre que je porte quand on m’annonce chez M. Martigny ?</p>
         <p>– Mais vous avez le projet de quitter ce titre si jamais vous le pouvez sans choquer Monsieur votre père.</p>
-        <p>– Sans doute ; mais l’oubli de ce titre, en disant mon nom au laquais de M. Martigny, n’aurait-il pas l’air d’une lâcheté ? C’est comme Rousseau qui appelait son chien <hi rend="i">Turc</hi> au lieu de <hi rend="i">Duc</hi>, parce qu’il y avait un duc dans la chambre<note place="bottom">Comme Rousseau, le pauvre Octave se bat contre des chimères. Il eût passé inaperçu dans tous les salons de Paris, malgré le mot qui précède son nom. Il règne d’ailleurs dans sa peinture de la société qu’il n’a jamais vue, un ton d’animosité ridicule dont il se corrigera. Les sots sont de toutes les classes. S’il en était une qu’à tort ou à raison on accusât de grossièreté, elle se distinguerait bientôt par une grande pruderie et solennité de manières.</note>.</p>
+        <p>– Sans doute ; mais l’oubli de ce titre, en disant mon nom au laquais de M. Martigny, n’aurait-il pas l’air d’une lâcheté ? C’est comme Rousseau qui appelait son chien <hi rend="i">Turc</hi> au lieu de <hi rend="i">Duc</hi>, parce qu’il y avait un duc dans la chambre<note resp="author">Comme Rousseau, le pauvre Octave se bat contre des chimères. Il eût passé inaperçu dans tous les salons de Paris, malgré le mot qui précède son nom. Il règne d’ailleurs dans sa peinture de la société qu’il n’a jamais vue, un ton d’animosité ridicule dont il se corrigera. Les sots sont de toutes les classes. S’il en était une qu’à tort ou à raison on accusât de grossièreté, elle se distinguerait bientôt par une grande pruderie et solennité de manières.</note>.</p>
         <p>– Mais l’on ne hait pas tant les titres chez les banquiers libéraux, dit Armance ; l’autre jour M<hi rend="sup">me</hi> de Claix, qui va partout, s’est trouvée au bal de M. Montange, et vous savez bien que le soir elle nous a fait rire en prétendant qu’ils aiment tant les titres qu’elle avait entendu annoncer : <hi rend="i">madame la colonelle</hi>.</p>
         <p>– Depuis que la machine à vapeur est la reine du monde, un titre est une absurdité, mais enfin, je suis affublé de cette absurdité. Elle m’écrasera si je ne la soutiens. Ce titre attire l’attention sur moi. Si je ne réplique pas à cette voix tonnante du fabricant qui crie dès la porte que ce que je viens de dire est une ânerie, quelques regards ne me chercheront-ils pas ? Telle est la faiblesse de mon caractère. Je ne puis secouer les oreilles et me moquer de tout, comme le veut M<hi rend="sup">me</hi> d’Aumale. Si j’aperçois ces regards, tout plaisir va me fuir pour le reste de la soirée. La discussion qui s’établira au dedans de moi, pour savoir si l’on a voulu m’insulter, peut m’ôter la paix de l’âme pour trois jours.</p>
         <p>– Mais êtes-vous bien sûr, dit Armance, de cette prétendue grossièreté de manières dont vous gratifiez si généreusement le parti contraire ? N’avez-vous pas vu l’autre jour que les enfants de Talma et les fils d’un duc sont élevés dans le même pensionnat ?</p>
@@ -649,15 +645,15 @@
         <p>– Ah ! si M. de Soubirane vous entendait !</p>
         <p>– Ne m’attaquez pas sur le plus grand de mes malheurs, être obligé de mentir toute la journée…</p>
         <p>Le ton de l’intimité parfaite tolère des parenthèses à l’infini, qui plaisent parce qu’elles prouvent une confiance sans bornes, mais peuvent fort bien ennuyer un tiers. Il nous suffit d’avoir indiqué que la position brillante du vicomte de Malivert, était bien loin d’être pour lui une source de plaisirs sans mélange.</p>
-        <p>Ce n’est pas sans danger que nous aurons été historiens fidèles. La politique venant couper un récit aussi simple, peut faire l’effet d’un coup de pistolet au milieu d’un concert. Ensuite Octave n’est point un philosophe et il a caractérisé fort injustement les deux nuances qui, de son temps, divisaient la société. Quel scandale qu’Octave ne raisonne pas comme un sage de cinquante ans<note place="bottom">On n’est pas assez reconnaissant envers le ministère Villèle. Les trois pour cent, le droit d’aînesse, les lois sur la presse ont amené la fusion des partis. Les relations nécessaires entre les pairs et les députés ont commencé ce rapprochement qu’Octave ne pouvait prévoir, et heureusement les idées de ce jeune homme orgueilleux et timide sont encore moins exactes aujourd’hui qu’elles ne l’étaient il y a quelques mois ; mais c’est ainsi qu’il devait voir les choses d’après son caractère donné. Fallait-il laisser incomplète l’esquisse d’un caractère bizarre parce qu’il est injuste envers tout le monde ? C’est précisément cette injustice qui fait son malheur.</note> ?</p>
+        <p>Ce n’est pas sans danger que nous aurons été historiens fidèles. La politique venant couper un récit aussi simple, peut faire l’effet d’un coup de pistolet au milieu d’un concert. Ensuite Octave n’est point un philosophe et il a caractérisé fort injustement les deux nuances qui, de son temps, divisaient la société. Quel scandale qu’Octave ne raisonne pas comme un sage de cinquante ans<note resp="author">On n’est pas assez reconnaissant envers le ministère Villèle. Les trois pour cent, le droit d’aînesse, les lois sur la presse ont amené la fusion des partis. Les relations nécessaires entre les pairs et les députés ont commencé ce rapprochement qu’Octave ne pouvait prévoir, et heureusement les idées de ce jeune homme orgueilleux et timide sont encore moins exactes aujourd’hui qu’elles ne l’étaient il y a quelques mois ; mais c’est ainsi qu’il devait voir les choses d’après son caractère donné. Fallait-il laisser incomplète l’esquisse d’un caractère bizarre parce qu’il est injuste envers tout le monde ? C’est précisément cette injustice qui fait son malheur.</note> ?</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XV <lb/></head>
-        <p xml:lang="en" rend="right">How am I glutted with conceit of this ?</p>
-        <p xml:lang="en" rend="right">Shall I make spirits fetch me what I please ?</p>
-        <p xml:lang="en" rend="right">Resolve me of all ambiguities ?</p>
-        <p xml:lang="en" rend="right">Perform what desperate enterprise I will ?</p>
-        <p rend="right i">Doctor FAUSTUS.</p>
+        <head>Chapitre XV</head>
+        <epigraph><l>How am I glutted with conceit of this ?</l>
+        <l>Shall I make spirits fetch me what I please ?</l>
+        <l>Resolve me of all ambiguities ?</l>
+        <l>Perform what desperate enterprise I will ?</l>
+        <bibl>Doctor FAUSTUS.</bibl></epigraph>
         <p>Octave partait si souvent d’Andilly pour aller chercher M<hi rend="sup">me</hi> d’Aumale à Paris, que quelques légers sentiments de jalousie vinrent un jour éteindre la gaieté d’Armance. Au retour de son cousin, le soir, elle fit acte de souveraineté.</p>
         <p>– Voulez-vous obliger madame votre mère sur une chose dont jamais elle ne vous parlera ?</p>
         <p>– Sans doute.</p>
@@ -678,7 +674,7 @@
         <p>Octave avait trop d’esprit pour ne pas le sentir, et les moments de rêverie d’Armance devinrent plus fréquents. « De qui pourrais-je me plaindre, se disait-elle ? De personne, et surtout d’Octave moins que de personne. Ne lui ai-je pas dit que je préfère un autre homme ? et il a trop de fierté dans le caractère pour se contenter de la seconde place dans un cœur. Il s’attache à M<hi rend="sup">me</hi> d’Aumale ; c’est une beauté brillante et citée partout, et moi, je ne suis pas même jolie. Ce que je puis dire à Octave est d’un intérêt bien pâle, je suis sûre que souvent je l’ennuie, ou je l’intéresse comme une sœur. La vie de M<hi rend="sup">me</hi> d’Aumale est gaie, singulière ; jamais rien ne languit dans les lieux où elle se trouve, et il me semble que je m’ennuierais souvent dans le salon de ma tante si j’écoutais ce qu’on y dit. » Armance pleurait, mais cette âme noble ne s’abaissa point jusqu’à avoir de la haine pour M<hi rend="sup">me</hi> d’Aumale. Elle observait chacune des actions de cette femme aimable avec une attention profonde et qui la conduisait souvent à des moments fort vifs d’admiration. Mais chaque acte d’admiration était un coup de poignard pour son cœur. Le bonheur tranquille disparut, Armance fut en proie à toutes les angoisses des passions. La présence de M<hi rend="sup">me</hi> d’Aumale en vint à la troubler plus que celle d’Octave lui-même. Le tourment de la jalousie est surtout affreux quand il déchire des cœurs à qui leur penchant comme leurs positions interdisent également tous les moyens de plaire un peu hasardés.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XVI <lb/></head>
+        <head>Chapitre XVI</head>
         <epigraph xml:lang="en">
           <l>Let Rome in Tyber melt ! and the wide arch</l>
           <l>Of the rang’d empire fall ! Here is my space ;</l>
@@ -706,15 +702,15 @@
         <p>Cette voix frivole lui sembla comme un arrêt du destin qui tombait d’en haut. Il lui trouva un son extraordinaire. Ce mot imprévu, en découvrant à Octave la véritable situation de son cœur, le précipita du comble de la félicité dans un malheur affreux et sans espoir.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XVII <lb/></head>
-        <p xml:lang="en" rend="right">What is a man,</p>
-        <p xml:lang="en" rend="right">If his chief good, and market of his time,</p>
-        <p xml:lang="en" rend="right">Be but to sleep, and feed : a beast, no more.</p>
-        <p xml:lang="en" rend="right">… Rightly to be great</p>
-        <p xml:lang="en" rend="right">Is, not to stir without great argument ;</p>
-        <p xml:lang="en" rend="right">But greatly to find quarrel in a straw,</p>
-        <p xml:lang="en" rend="right">When honour’s at the stake.</p>
-        <p rend="right"><hi rend="i">Hamlet</hi>, act. IV.</p>
+        <head>Chapitre XVII</head>
+        <epigraph><l>What is a man,</l>
+        <l>If his chief good, and market of his time,</l>
+        <l>Be but to sleep, and feed : a beast, no more.</l>
+        <l>… Rightly to be great</l>
+        <l>Is, not to stir without great argument ;</l>
+        <l>But greatly to find quarrel in a straw,</l>
+        <l>When honour’s at the stake.</l>
+        <bibl><title>Hamlet</title>, act. IV.</bibl></epigraph>
         <p>Il avait donc eu la faiblesse de violer les serments qu’il s’était faits tant de fois ! Un instant avait renversé l’ouvrage de toute sa vie. Il venait de perdre tous les droits à sa propre estime. Le monde désormais était fermé pour lui : il n’avait pas assez de vertu pour y vivre. Il ne lui restait que la solitude et l’habitation au fond de quelque désert. L’excès de la douleur et son arrivée imprévue auraient pu causer un peu de trouble à l’âme la plus ferme. Heureusement Octave vit à l’instant que s’il ne répondait pas rapidement et de l’air le plus calme à M<hi rend="sup">me</hi> d’Aumale, la réputation d’Armance pouvait souffrir. Il passait sa vie avec elle, et le mot de M<hi rend="sup">me</hi> d’Aumale avait été saisi par deux ou trois personnages qui le détestaient ainsi qu’Armance.</p>
         <p>– Moi, aimer ! dit-il à M<hi rend="sup">me</hi> d’Aumale. Hélas ! c’est un avantage qu’apparemment le ciel m’a refusé ; je ne l’ai jamais mieux senti, ni plus vivement regretté. Je vois tous les jours et moins souvent que je ne le voudrais la femme la plus séduisante de Paris ; lui plaire est sans doute le plus beau projet que puisse former un jeune homme de mon âge. Sans doute elle n’eût pas accepté mes hommages ; mais enfin jamais je ne me suis senti le degré de folie qui m’eût rendu digne de les lui présenter. Jamais je n’ai perdu auprès d’elle le plus beau sang-froid. Après un tel trait de sauvagerie et d’insensibilité, je désespère de jamais perdre terre auprès d’aucune femme.</p>
         <p>Jamais Octave n’avait tenu ce langage. Cette explication presque parlementaire fut adroitement prolongée et avidement écoutée. Il y avait là deux ou trois hommes faits pour plaire et qui croyaient souvent voir un rival heureux dans Octave. Celui-ci eut le bonheur de rencontrer quelques mots piquants. Il parla beaucoup, continua d’alarmer les amours-propres, et enfin eut lieu d’espérer que personne ne songeait plus au mot trop vrai qui venait d’échapper à M<hi rend="sup">me</hi> d’Aumale.</p>
@@ -744,9 +740,9 @@
         <p>Dès que le paysan l’eut quitté, Octave rompit une jeune tige de châtaignier, avec laquelle il fit un trou dans la terre ; il se permit de donner un baiser à la bourse, présent d’Armance, et il l’enterra au lieu même où il s’était évanoui. « Voilà, se dit-il, ma première action vertueuse. Adieu, adieu, pour la vie, chère Armance ! Dieu sait si je t’ai aimée ! »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XVIII <lb/></head>
-        <p rend="margin noindent">Sur son sein d’albâtre elle porte une croix brillante où l’enfant de Jacob imprimerait ses lèvres avec respect, et que l’infidèle adorerait.</p>
-        <p rend="right">SCHILLER.</p>
+        <head>Chapitre XVIII</head>
+        <epigraph><p>Sur son sein d’albâtre elle porte une croix brillante où l’enfant de Jacob imprimerait ses lèvres avec respect, et que l’infidèle adorerait.</p>
+        <bibl>SCHILLER.</bibl></epigraph>
         <p>Un mouvement instinctif le précipita vers le château. Il sentait confusément que raisonner avec lui-même était le plus grand des maux ; mais il avait vu quel était son devoir, et il comptait se trouver le courage nécessaire pour accomplir les actions qui se présenteraient quelles qu’elles fussent. Il justifia son retour au château, que lui inspirait l’horreur de se trouver seul, par l’idée que quelque domestique pouvait arriver de Paris, et dire qu’on ne l’avait pas vu dans la rue Saint-Dominique, ce qui aurait pu faire découvrir sa folie et donner de l’inquiétude à sa mère.</p>
         <p>Octave se trouvait assez loin du château : « Ah ! se dit-il en traversant le bois pour y revenir, hier encore il y avait ici des enfants qui chassaient ; si quelque enfant maladroit, en tirant un oiseau derrière une haie, pouvait me tuer, je n’aurais aucun reproche à me faire. Dieu ! quelles délices de recevoir un coup de fusil dans cette tête brûlante ! Comme je le remercierais avant que de mourir si j’en avais le temps ! »</p>
         <p>On voit qu’il entrait un peu de folie dans la manière d’être d’Octave, ce matin-là. L’espérance romanesque d’être tué par un enfant lui fit ralentir le pas, et son âme, par l’effet d’une petite faiblesse à demi aperçue, se refusa à considérer la légitimité de cette action. Enfin il rentra au château par la petite porte du jardin, et la première personne qu’il aperçut, ce fut Armance. Il demeura immobile, son sang se glaça, il ne croyait pas la rencontrer sitôt. Dès qu’elle l’aperçut de loin, Armance accourut en souriant ; elle avait la grâce et la légèreté d’un oiseau : jamais il ne l’avait trouvée si jolie ; elle songeait à ce qu’il lui avait dit la veille sur sa liaison avec M<hi rend="sup">me</hi> d’Aumale.</p>
@@ -791,11 +787,11 @@
         <p>« C’est pour la dernière fois de ma vie que je la vois », se disait-il. Armance eut le bonheur de se brûler d’une manière assez douloureuse en faisant le thé. Ce hasard aurait servi d’excuse à son trouble, si quelqu’un dans cette petite salle se fût trouvé assez de sang-froid pour le remarquer. M. de Malivert avait la voix tremblante ; pour la première fois de sa vie, il ne trouvait rien d’agréable à dire. Il cherchait si quelque prétexte compatible avec le grand mot <hi rend="i">Noblesse oblige</hi> ! que son fils lui avait cité si à propos, ne pourrait point lui fournir le moyen de retarder ce départ.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XIX <lb/></head>
-        <p xml:lang="en" rend="right">He unworthy you say ?</p>
-        <p xml:lang="en" rend="right">‘Tis impossible. It would</p>
-        <p xml:lang="en" rend="right">Be more easy to die.</p>
-        <p rend="right">DECKAR.</p>
+        <head>Chapitre XIX</head>
+        <epigraph xml:lang="en"><l>He unworthy you say ?</l>
+        <l>‘Tis impossible. It would</l>
+        <l>Be more easy to die.</l>
+        <bibl>DECKAR.</bibl></epigraph>
         <p>Octave crut remarquer que M<hi rend="sup">lle</hi> de Zohiloff le regardait quelquefois avec assez de tranquillité. En dépit de sa farouche vertu, qui lui défendait hautement de songer à des rapports qui n’existaient plus, il ne put s’empêcher de penser que c’était la première fois qu’il la revoyait depuis qu’il s’était avoué qu’il l’aimait ; le matin, dans le jardin, il était troublé par la nécessité d’agir. « C’est donc là, se disait-il, l’impression que fait la vue d’une femme qu’on aime. Mais il est possible qu’Armance n’ait pour moi que de l’amitié. Cette nuit, c’était encore un mouvement de présomption qui me faisait penser le contraire. »</p>
         <p>Durant ce pénible déjeuner, on ne dit pas un mot du sujet qui occupait tous les cœurs. Pendant qu’Octave était chez son père, M<hi rend="sup">me</hi> de Malivert avait fait appeler Armance pour lui apprendre l’étrange projet de voyage. Cette pauvre fille avait besoin de sincérité ; elle ne put s’empêcher de dire à M<hi rend="sup">me</hi> de Malivert :</p>
         <p>– Eh bien, maman, vous voyez si vos idées étaient fondées !</p>
@@ -822,11 +818,11 @@
         <p>C’est ainsi que l’imagination d’Armance s’égarait dans des suppositions consolantes, puisqu’elles lui peignaient Octave innocent et généreux. « Ce n’est que par excès de vertu, se disait-elle, les larmes aux yeux, qu’une telle âme peut avoir l’apparence d’un tort. »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XX <lb/></head>
-        <p xml:lang="en" rend="right">A fine woman ! a fair woman ! a sweet woman !</p>
-        <p xml:lang="en" rend="right">– Nay, you must forget that.</p>
-        <p xml:lang="en" rend="right">– O, the world has not a sweeter creature.</p>
-        <p rend="right"><hi rend="i">Othello</hi>, act. IV.</p>
+        <head>Chapitre XX</head>
+        <epigraph xml:lang="en"><l>A fine woman ! a fair woman ! a sweet woman !</l>
+        <l>– Nay, you must forget that.</l>
+        <l>– O, the world has not a sweeter creature.</l>
+        <bibl><title>Othello</title>, act. IV.</bibl></epigraph>
         <p>Pendant qu’Armance se promenait seule dans une partie du bois d’Andilly inaccessible à tous les yeux, Octave était à Paris occupé des préparatifs de son départ. Il éprouvait des alternatives d’une sorte de tranquillité étonnée d’elle-même, suivie d’instants du désespoir le plus poignant. Essayerons-nous de rappeler les différents genres de douleur qui marquaient chaque instant de sa vie ? Le lecteur ne se lassera-t-il pas de ces tristes détails ?</p>
         <p>Il lui semblait entendre constamment parler tout près de son oreille, et cette sensation étrange et imprévue l’empêchait d’oublier un instant son malheur.</p>
         <p>Les objets les plus indifférents lui rappelaient Armance. Sa folie allait au point de ne pouvoir apercevoir à la tête d’une affiche ou sur une enseigne de boutique un <hi rend="i">A</hi> ou un <hi rend="i">Z</hi>, sans être violemment entraîné à penser à cette Armance de Zohiloff qu’il s’était juré d’oublier. Cette pensée s’attachait à lui comme un feu dévorant et avec tout cet attrait de nouveauté, avec tout l’intérêt qu’il y eût mis, si depuis des siècles l’idée de sa cousine ne lui fût apparue.</p>
@@ -851,9 +847,9 @@
         <p>Dans ce moment d’angoisses ses yeux s’arrêtèrent machinalement sur une affiche de spectacle, il y vit le mot <hi rend="i">Otello</hi> écrit en fort gros caractères. Ce mot lui rappela l’existence de M<hi rend="sup">me</hi> d’Aumale. « Peut-être sera-t-elle venue à Paris pour <hi rend="i">Otello</hi> ; en ce cas, il est de mon devoir de lui parler encore une fois. Il faut lui faire envisager mon voyage si subit comme l’idée d’un homme qui s’ennuie. J’ai longtemps dérobé ce projet à mes amis ; mais depuis plusieurs mois mon départ n’était retardé que par ces sortes de difficultés d’argent dont on ne peut parler à des amis riches. »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXI <lb/></head>
-        <p rend="right">Durate, et vosmet rebus servate secundis.</p>
-        <p rend="right">VIRGILE.</p>
+        <head>Chapitre XXI</head>
+        <epigraph><p rend="right">Durate, et vosmet rebus servate secundis.</p>
+        <p rend="right">VIRGILE.</p></epigraph>
         <p>Octave entra au Théâtre-Italien ; il y trouva en effet M<hi rend="sup">me</hi> d’Aumale et dans sa loge un marquis de Crêveroche ; c’était un des fats qui obsédaient le plus cette femme aimable ; mais avec moins d’esprit ou plus de suffisance que les autres, il se croyait distingué. À peine Octave parut-il, que M<hi rend="sup">me</hi> d’Aumale ne vit plus que lui, et le marquis de Crêveroche, outré de dépit, sortit sans que son départ fût même remarqué.</p>
         <p>Octave s’établit sur le devant de la loge, et, par habitude prise, car, ce jour-là, il était loin de chercher à affecter quoi que ce soit, il se mit à parler à M<hi rend="sup">me</hi> d’Aumale d’une voix qui quelquefois couvrait celle des acteurs. Nous avouerons qu’il outrepassa un peu le degré d’impertinence toléré, et si le parterre du Théâtre-Italien eût été composé comme celui des autres spectacles, il eût eu la distraction d’une scène publique.</p>
         <p>Au milieu du second acte d’<hi rend="i">Otello</hi>, le petit commissionnaire qui vend les <hi rend="i">libretti</hi> d’opéra et les annonce d’une voix nasillarde, vint lui apporter le billet suivant :</p>
@@ -916,9 +912,9 @@
         <p>Et il fit signer deux témoins, la qualité de l’encre lui donnant quelques doutes sur la validité d’un tel acte.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXII <lb/></head>
-        <p rend="margin noindent">To the dull plodding man whose vulgar soul is awake only to the gross and paltry interests of every day life, the spectacle of a noble being plunged in misfortune by the resistless force of passion, serves only as an object of scorn and ridicule.</p>
-        <p rend="right">DECKAR.</p>
+        <head>Chapitre XXII</head>
+        <epigraph xml:lang="en"><p>To the dull plodding man whose vulgar soul is awake only to the gross and paltry interests of every day life, the spectacle of a noble being plunged in misfortune by the resistless force of passion, serves only as an object of scorn and ridicule.</p>
+        <bibl>DECKAR.</bibl></epigraph>
         <p>Comme les témoins achevaient de signer, il s’évanouit de nouveau ; les paysans fort inquiets étaient allés chercher leur curé. Enfin deux chirurgiens arrivèrent de Paris et jugèrent qu’Octave était fort mal. Ces messieurs furent frappés de l’ennui qu’il y aurait pour eux à venir chaque jour à Clamart, et décidèrent que le blessé serait transporté à Paris.</p>
         <p>Octave avait expédié sa lettre à Armance par un jeune paysan de bonne volonté qui prit un cheval à la poste et promit d’être, en moins de deux heures, au château d’Andilly. Cette lettre précéda M. Dolier qui était resté longtemps à Paris pour trouver des chirurgiens. Le jeune paysan sut fort bien se faire introduire auprès de M<hi rend="sup">lle</hi> de Zohiloff sans faire de bruit dans la maison. Elle lut la lettre. À peine eut-elle la force de faire quelques questions. Tout son courage l’avait abandonnée.</p>
         <p>Elle se trouvait, en recevant cette fatale nouvelle, dans cette disposition au découragement qui suit les grands sacrifices commandés par le devoir, mais qui n’ont produit qu’une situation tranquille et sans mouvement. Elle cherchait à s’accoutumer à la pensée de ne jamais revoir Octave, mais l’idée de sa mort ne s’était point présentée à elle. Cette dernière rigueur de la fortune la prit au dépourvu.</p>
@@ -944,9 +940,9 @@
         <p>Octave resta pensif après cette déclaration ; mais bientôt un sentiment de joie et un sourire très-marqué succédèrent à ses réflexions. L’excellent Duquerrel fut alarmé de cette joie qu’il prit pour un commencement de délire.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXIII <lb/></head>
-        <p rend="margin noindent">Tu sei un niente, o morte ! Ma sarebbe mai dopo sceso il primo gradino della mia tomba, che mi verrebbe dato di veder la vita come ella è realmente ?</p>
-        <p rend="right">GUASCO.</p>
+        <head>Chapitre XXIII</head>
+        <epigraph><p>Tu sei un niente, o morte ! Ma sarebbe mai dopo sceso il primo gradino della mia tomba, che mi verrebbe dato di veder la vita come ella è realmente ?</p>
+        <bibl>GUASCO.</bibl></epigraph>
         <p>Jusqu’à ce moment, Armance n’avait jamais vu son cousin qu’en présence de sa mère. Ce jour-là, après la sortie du chirurgien, M<hi rend="sup">me</hi> de Malivert crut apercevoir dans les yeux d’Octave une force inusitée et le désir de parler à M<hi rend="sup">lle</hi> de Zohiloff. Elle pria sa jeune parente de la remplacer un instant auprès de son fils, pendant qu’elle irait écrire dans la pièce voisine un mot indispensable.</p>
         <p>Octave suivit sa mère des yeux ; dès qu’il ne la vit plus :</p>
         <p>– Chère Armance, dit-il, je vais mourir ; ce moment a quelques privilèges, et vous ne vous offenserez pas de ce que je vais vous dire pour la première fois de ma vie ; je meurs comme j’ai vécu, en vous aimant avec passion ; et la mort m’est douce, parce qu’elle me permet de vous faire cet aveu.</p>
@@ -997,7 +993,7 @@
         <p>Mais la marquise eut l’avis secret d’une promotion prochaine dans l’ordre du Saint-Esprit. Le feu roi avait promis le cordon bleu à M. de Bonnivet. En conséquence, l’architecte poitevin écrivit bientôt que la présence de Madame serait sans objet dans le moment présent, parce qu’on manquait d’ouvriers, et peu de jours après l’arrivée d’Octave, M<hi rend="sup">me</hi> de Bonnivet vint s’établir à Andilly.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXIV <lb/></head>
+        <head>Chapitre XXIV</head>
         <p>Le bruit des domestiques, logés dans les mansardes, pouvant incommoder Octave, M<hi rend="sup">me</hi> de Bonnivet les établit dans la maison d’un paysan voisin. C’était dans ces sortes d’égards matériels pour ainsi dire que triomphait le génie de la marquise ; elle y portait une grâce parfaite, et savait fort adroitement employer sa fortune à étendre la réputation de son esprit.</p>
         <p>Le fond de sa société était composé de ces gens qui pendant quarante ans n’ont jamais fait que ce qui est de la convenance la plus exacte, de ces gens qui font la mode et ensuite s’en étonnent. Ils déclarèrent que M<hi rend="sup">me</hi> de Bonnivet s’imposant le sacrifice de ne pas aller dans ses terres et de passer l’automne à Andilly pour faire compagnie à son amie intime M<hi rend="sup">me</hi> de Malivert, il était de devoir étroit pour tous les cœurs sensibles de venir partager sa solitude.</p>
         <p>Elle fut telle, cette solitude, que la marquise fut obligée de prendre des chambres dans le petit village à mi-côte pour loger ses amis qui accouraient en foule. Elle y faisait mettre des papiers et des lits. Bientôt la moitié du village fut embellie par ses ordres et occupée. On se disputait les logements, on lui écrivait de tous les châteaux des environs de Paris pour solliciter une chambre. Il devint convenable de venir tenir compagnie à cette admirable marquise qui soignait cette pauvre M<hi rend="sup">me</hi> de Malivert, et Andilly fut brillant pendant le mois de septembre comme un village d’eaux. Il fut question de cette mode même à la cour. « Si nous avions vingt femmes d’esprit comme M<hi rend="sup">me</hi> de Bonnivet, dit quelqu’un, on pourrait risquer d’aller habiter Versailles. »</p>
@@ -1037,9 +1033,9 @@
         <p>La promotion dans l’ordre du Saint-Esprit paraissait retardée ; il fut question du départ de M<hi rend="sup">me</hi> de Bonnivet pour le vieux château situé au fond du Poitou, qui donnait son nom à la famille. Un nouveau personnage devait être du voyage, c’était M. le chevalier de Bonnivet, le plus jeune des fils que le marquis avait eus d’un premier mariage.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXV <lb/></head>
-        <p rend="right">Totus mundus stult.</p>
-        <p rend="right">HUNGARIÆ R***.</p>
+        <head>Chapitre XXV</head>
+        <epigraph><p rend="right">Totus mundus stult.</p>
+        <p rend="right">HUNGARIÆ R***.</p></epigraph>
         <p>À peu près à l’époque de la blessure d’Octave, un nouveau personnage était arrivé de Saint-Acheul dans la société de la marquise. C’était le chevalier de Bonnivet, troisième fils de son mari.</p>
         <p>Si l’ancien régime eût encore existé, on l’eût destiné à l’ordre épiscopal, et quoique bien des choses soient changées, une sorte d’habitude de famille avait persuadé à tout le monde et à lui-même qu’il devait appartenir à l’Église.</p>
         <p>Ce jeune homme, à peine âgé de vingt ans, passait pour fort savant ; il annonçait surtout une sagesse au-dessus de son âge. C’était un être petit, fort pâle ; il avait le visage gros, et au total quelque chose de l’air prêtre.</p>
@@ -1093,7 +1089,7 @@
         <p>Lorsqu’elle revit Octave, Armance n’eut pas le courage de lui faire la moindre question sur le hasard qui l’avait empêché de voir le poème anglais ; elle eût cru manquer à tout ce qu’elle se devait. Ce troisième jour fut encore plus sombre que les précédents.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXVI <lb/></head>
+        <head>Chapitre XXVI</head>
         <p>Octave, consterné du changement qu’il voyait dans la manière d’être d’Armance, pensa que, même en sa qualité d’ami, il pouvait espérer qu’elle lui confierait le sujet de ses inquiétudes ; car elle était malheureuse, Octave ne pouvait en douter. Il était également évident pour lui que le chevalier de Bonnivet cherchait à leur ôter toutes les occasions de se dire un mot qu’auraient pu leur offrir les hasards de la promenade ou du salon.</p>
         <p>Les demi-mots qu’Octave hasardait quelquefois n’obtenaient pas de réponse. Pour qu’elle avouât sa douleur et renonçât au système de retenue parfaite qu’elle s’était imposé, il aurait fallu qu’Armance fût profondément émue. Octave était trop jeune et trop malheureux lui-même pour faire cette découverte et en profiter.</p>
         <p>Le commandeur de Soubirane était venu dîner à Andilly ; le soir il y eut de l’orage, il plut beaucoup. On engagea le commandeur à rester, et on le logea dans une chambre voisine de celle qu’Octave venait de prendre au second étage du château. Ce soir-là Octave avait entrepris de rendre à Armance un peu de gaieté ; il avait besoin de la voir sourire ; il eût vu dans ce sourire une image de l’ancienne intimité. Sa gaieté réussit fort mal et déplut fort à Armance. Comme elle ne répondait pas, il était obligé d’adresser ses discours à M<hi rend="sup">me</hi> d’Aumale qui était présente et qui riait beaucoup, tandis qu’Armance gardait un silence morne.</p>
@@ -1109,7 +1105,7 @@
         <p>– Octave va mieux, mademoiselle, j’espère ? dit le commandeur d’un ton goguenard et grossier, et il passa.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXVII <lb/></head>
+        <head>Chapitre XXVII</head>
         <p>Armance, au désespoir, se vit à la fois déshonorée à jamais, et trahie par son amant. Elle s’assit un instant sur la dernière marche de l’escalier. Elle eut l’idée d’aller frapper à la porte de la femme de chambre de M<hi rend="sup">me</hi> de Malivert. Cette fille dormait et ne répondit pas. M<hi rend="sup">me</hi> de Malivert, craignant vaguement que son fils ne fût malade, prit sa veilleuse et vint elle-même ouvrir la porte de sa chambre ; elle fut effrayée de la figure d’Armance.</p>
         <p>– Qu’est-il arrivé à Octave ? s’écria M<hi rend="sup">me</hi> de Malivert.</p>
         <p>– Rien, madame, rien au monde à Octave, il se porte bien, ce n’est que moi qui suis malheureuse et au désespoir de troubler votre sommeil. Mon projet était de parler à M<hi rend="sup">me</hi> Dérien et de ne me présenter chez vous que si l’on me disait que vous ne dormiez pas encore.</p>
@@ -1147,13 +1143,13 @@
         <p>Le reste de la nuit fut charmant. La gaieté de cette heureuse mère se communiqua à Octave et à son amie. Engagée par les paroles gaies de M<hi rend="sup">me</hi> de Malivert, Armance, encore toute troublée et qui avait perdu tout empire sur elle-même, osait montrer à Octave combien il lui était cher. Elle avait le plaisir extrême de le voir jaloux du chevalier de Bonnivet. C’était ce sentiment fortuné qui expliquait d’une manière si heureuse pour elle son apparente indifférence des jours précédents. M<hi rend="sup">mes</hi> d’Aumale et de Bonnivet, qu’on avait réveillées malgré les ordres de M<hi rend="sup">me</hi> de Malivert, ne vinrent que fort tard et tout le monde alla se coucher au petit jour.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXVIII <lb/></head>
-        <p xml:lang="en" rend="right">This is the state of man ; to-day he puts forth</p>
-        <p xml:lang="en" rend="right">The tender leaves of hope, to-morrow blossoms,</p>
-        <p xml:lang="en" rend="right">And bears his blushing honours thick upon him ;</p>
-        <p xml:lang="en" rend="right">The third day, comes a frost, a killing frost ;</p>
-        <p xml:lang="en" rend="right">And then he falls – see his character.</p>
-        <p rend="right"><hi xml:lang="en" rend="i">King Henry VIII</hi>, act. III.</p>
+        <head>Chapitre XXVIII</head>
+        <epigraph xml:lang="en"><l>This is the state of man ; to-day he puts forth</l>
+        <l>The tender leaves of hope, to-morrow blossoms,</l>
+        <l>And bears his blushing honours thick upon him ;</l>
+        <l>The third day, comes a frost, a killing frost ;</l>
+        <l>And then he falls – see his character.</l>
+        <bibl><title>King Henry VIII</title>, act. III.</bibl></epigraph>
         <p>Dès le lendemain de fort bonne heure, M<hi rend="sup">me</hi> de Malivert vint à Paris proposer à son mari le mariage d’Octave. Il batailla pendant toute la journée.</p>
         <p>– Ce n’est pas, disait le marquis, que je ne m’attende depuis longtemps à cette fâcheuse proposition. C’est à tort que je ferais l’étonné. M<hi rend="sup">lle</hi> de Zohiloff ne manque pas absolument de fortune, j’en conviens, ses oncles russes sont morts fort à propos pour elle. Mais cette fortune n’excède pas ce que nous pourrions trouver ailleurs, et ce qui est de la plus grande conséquence pour mon fils, il n’y a pas de famille dans cette alliance ; je n’y vois qu’une funeste analogie de caractères. Octave n’a pas assez de parents dans la société, et sa manière d’être tout en dedans ne lui donne pas d’amis. Il sera pair après son cousin et après moi, voilà tout, et comme vous le savez, ma bonne amie, en France, tant vaut l’homme, tant vaut la place. Je suis de la vieille génération, comme disent ces insolents ; je disparaîtrai bientôt, et avec moi tous les liens que mon fils peut avoir avec la société ; car il est un instrument de notre chère marquise de Bonnivet, mais n’est pas un objet pour elle. Il fallait chercher, en mariant Octave, des appuis dans le monde plutôt même que de la fortune. Je lui vois un de ces mérites distingués, si vous voulez, pour réussir tout seul. J’ai toujours vu que ces gens si sublimes ont besoin d’être prônés, et mon fils, loin de flatter les faiseurs de réputation, semble trouver un malin plaisir à les braver et à leur rompre en visière. Ce n’est pas ainsi qu’on réussit. Avec une famille nombreuse et bien établie il eût passé dans la société pour être digne du ministère ; il n’est vanté par personne, il ne sera qu’un original.</p>
         <p>M<hi rend="sup">me</hi> de Malivert se récria beaucoup sur ce mot. Elle voyait que quelqu’un avait <hi rend="i">chambré</hi> son mari.</p>
@@ -1181,9 +1177,9 @@
         <p>– L’amitié a ses illusions non moins que l’amour, dit-il à Armance, et si j’ai blâmé d’abord un certain arrangement, c’est que moi aussi j’aime Octave avec passion.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXIX <lb/></head>
-        <p rend="right">Ses maux les plus cruels sont ceux qu’il se fait lui-même.</p>
-        <p rend="right">BALZAC.</p>
+        <head>Chapitre XXIX</head>
+        <epigraph><p>Ses maux les plus cruels sont ceux qu’il se fait lui-même.</p>
+        <bibl>BALZAC.</bibl></epigraph>
         <p>Armance eût pu être trompée par ces avances polies, mais elle ne s’arrêta pas à penser au commandeur ; elle avait d’autres sujets d’inquiétude.</p>
         <p>Depuis que rien ne s’opposait plus à son mariage, Octave avait des accès d’humeur noire qu’il pouvait à peine dissimuler ; il prenait le prétexte de maux de tête violents et allait se promener seul dans les bois d’Écouen et de Senlis. Il faisait quelquefois sept ou huit lieues de suite au galop. Ces symptômes parurent funestes à Armance ; elle remarqua qu’en de certains moments il la regardait avec des yeux où le soupçon se peignait plus que l’amour.</p>
         <p>Il est vrai que ces accès d’humeur sombre se terminaient souvent par des transports d’amour et par un abandon passionné qu’elle ne lui avait jamais vu du <hi rend="i">temps de leur bonheur</hi>. C’est ainsi qu’elle commençait à appeler en écrivant à Méry de Tersan le temps qui s’était écoulé entre la blessure d’Octave et la fatale imprudence qu’elle avait faite en se cachant dans le cabinet près de la chambre du commandeur.</p>
@@ -1248,7 +1244,7 @@
         <p>En arrivant à Andilly avec la lettre écrite d’après les conseils de M. Dolier, l’idée dominante d’Octave pendant toute la route avait été d’obtenir d’Armance qu’elle ne lirait sa lettre que le soir après qu’ils se seraient séparés. Octave comptait partir le lendemain de grand matin ; il était bien sûr qu’Armance lui répondrait. Il espérait ainsi diminuer un peu l’embarras d’une première entrevue après un tel aveu. Octave ne s’y était déterminé que parce qu’il trouvait de l’héroïsme dans la façon de penser d’Armance. Depuis bien longtemps il n’avait pas surpris un quart d’heure de la vie d’Armance qui ne fût dominé par le bonheur ou par le chagrin produits par le sentiment qui les unissait. Octave ne doutait pas qu’elle n’eût pour lui une passion violente. En arrivant à Andilly il sauta de son cheval, courut au jardin et en cachant sa lettre sous quelques feuilles dans le coin de la caisse d’oranger, il en trouva une d’Armance.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXX <lb/></head>
+        <head>Chapitre XXX</head>
         <p>Il s’enfonça rapidement sous une allée de tilleuls pour pouvoir la lire sans être interrompu. Il vit par les premières lignes que cette lettre était écrite pour M<hi rend="sup">lle</hi> Méry de Tersan (c’était la lettre composée par le commandeur). Mais les premières lignes l’avaient tellement inquiété qu’il continua et lut :</p>
         <p>« Je ne sais comment répondre à tes reproches. Tu as raison, ma bonne amie, je suis folle de me plaindre. Cet arrangement est sous tous les rapports bien au-dessus de ce que pouvait espérer une pauvre fille riche de la veille, et sans famille pour l’établir et la protéger. C’est un homme d’esprit et de la plus haute vertu : peut-être en a-t-il trop pour moi. Te l’avouerai-je ? les temps sont bien changés ; ce qui eût comblé ma félicité il y a quelques mois n’est plus qu’un devoir ; le ciel m’a-t-il refusé la faculté d’aimer constamment ? Je termine un arrangement raisonnable et avantageux, je me le dis sans cesse, mais mon cœur n’éprouve plus ces doux transports que me donnait la vue de l’homme le plus parfait qui à mes yeux existât sur la terre, du seul être qui méritât d’être aimé. Je vois aujourd’hui que son humeur est inégale, ou plutôt pourquoi l’accuser ? Il n’a pas changé lui ; tout mon malheur c’est qu’il y ait de l’inégalité dans mon cœur. Je vais faire un mariage avantageux, honorable, de toutes manières ; mais, chère Méry, je rougis de te l’avouer ; je n’épouse plus l’être que j’aimais par-dessus tout ; je le trouve sérieux et quelquefois peu amusant, et c’est avec lui que je vais passer toute ma vie ! probablement dans quelque château solitaire au fond de quelque province où nous propagerons l’enseignement mutuel et la vaccine. Peut-être, chère amie, regretterai-je le salon de M<hi rend="sup">me</hi> de Bonnivet ; qui nous l’eût dit il y a six mois ? Cette étrange légèreté de mon caractère est ce qui m’afflige le plus. Octave n’est-il pas le jeune homme le plus remarquable que nous ayons vu cet hiver ? Mais j’ai passé une jeunesse si triste ! Je voudrais un mari amusant. Adieu. Après-demain <hi rend="i">l’on me permet</hi> d’aller à Paris ; à onze heures je serai à ta porte. »</p>
         <p>Octave resta frappé d’horreur. Tout à coup il se réveilla comme d’un songe, et courut reprendre la lettre qu’il venait de déposer dans la caisse d’oranger : il la déchira avec rage, et mit les fragments dans sa poche.</p>
@@ -1272,7 +1268,7 @@
         <p>Toutefois, vers la fin de cet intervalle de dix jours, l’extrême tendresse d’Armance lui donna quelques moments de faiblesse. Dans leurs promenades solitaires, se croyant autorisée par leur mariage si prochain, Armance se permit une ou deux fois de prendre la main d’Octave qu’il avait fort belle, et de la porter à ses lèvres. Ce redoublement de soins tendres qu’Octave remarqua fort bien et auquel, malgré lui, il était extrêmement sensible, rendit souvent vive et poignante une douleur qu’il croyait avoir surmontée.</p>
         <p>Il se figurait ce qu’eussent été ces caresses venant d’un être qui l’eût véritablement aimé, venant d’Armance, telle que d’après son propre aveu, dans la lettre fatale à Méry de Tersan, elle était encore deux mois auparavant. « Et mon peu d’amabilité et de gaieté a pu faire cesser son amour, se disait Octave avec amertume. Hélas ! c’était l’art de me faire bien venir dans le monde qu’il fallait apprendre au lieu de me livrer à tant de vaines sciences ! À quoi m’ont-elles servi ? À quoi m’ont servi mes succès auprès de M<hi rend="sup">me</hi> d’Aumale ? elle m’eût aimé si je l’eusse voulu. Je n’étais pas fait pour plaire à ce que je respecte. Apparemment qu’une timidité malheureuse me rend triste, peu aimable, quand je désire passionnément de plaire.</p>
         <p>» Armance m’a toujours fait peur. Je ne l’ai jamais approchée sans sentir que je paraissais devant le maître de ma destinée. Il aurait fallu demander à l’expérience et à ce que je voyais se passer dans le monde, des idées plus justes sur l’effet que produit un homme aimable qui veut intéresser une jeune fille de vingt ans…</p>
-        <p>» Mais tout cela est inutile désormais, disait Octave en souriant tristement et s’interrompant : ma vie est finie. <hi rend="i">Vixi et quem dederat cursum fortuna peregi</hi><note place="bottom">En mourant abandonnée par Énée, Didon s’écrie : « J’ai vécu et cette destinée que la fortune avait tracée pour moi, je l’ai parcourue. »</note>. »</p>
+        <p>» Mais tout cela est inutile désormais, disait Octave en souriant tristement et s’interrompant : ma vie est finie. <hi rend="i">Vixi et quem dederat cursum fortuna peregi</hi><note resp="author">En mourant abandonnée par Énée, Didon s’écrie : « J’ai vécu et cette destinée que la fortune avait tracée pour moi, je l’ai parcourue. »</note>. »</p>
         <p>Dans certains moments d’humeur sombre, Octave allait jusqu’à voir dans les manières tendres d’Armance si peu d’accord avec l’extrême retenue qui lui était si naturelle, l’accomplissement d’un devoir désagréable qu’elle s’imposait. Rien alors n’était comparable à la rudesse de sa conduite qui réellement avoisinait l’apparence de la folie.</p>
         <p>Moins malheureux dans d’autres instants, il se laissait toucher par la grâce séduisante de cette jeune fille qui allait être son épouse. Il eût été difficile, en effet, de rien imaginer de plus touchant et de plus noble que les manières caressantes de cette jeune fille ordinairement si réservée, faisant violence aux habitudes de toute sa vie pour essayer de rendre un peu de calme à l’homme qu’elle aimait. Elle le croyait victime de remords et cependant éprouvait pour lui une passion violente. Depuis que la grande affaire de la vie d’Armance n’était plus de cacher son amour et de se le reprocher, Octave lui était devenu encore plus cher.</p>
         <p>Un jour, dans une promenade vers les bois d’Écouen, émue elle-même par les mots tendres qu’elle se permettait, Armance alla jusqu’à lui dire, et elle était de bonne foi dans ce moment :</p>
@@ -1280,9 +1276,9 @@
         <p>Octave, séduit par l’accent de la vraie passion et comprenant toute sa pensée, s’arrêta pour la regarder fixement et peu s’en fallut qu’il ne lui remît la lettre d’aveu dont il portait toujours les fragments sur lui. En portant la main dans la poche de son habit, il sentit le papier plus fin de la prétendue lettre destinée à Méry de Tersan, et sa bonne intention fut glacée.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXXI <lb/></head>
-        <p rend="margin noindent">If he be turn’d to earth, let me but give him one hearty kiss, and you shall put us both into one coffin.</p>
-        <p rend="right">WEBSTER.</p>
+        <head>Chapitre XXXI</head>
+        <epigraph><p>If he be turn’d to earth, let me but give him one hearty kiss, and you shall put us both into one coffin.</p>
+          <bibl>WEBSTER.</bibl></epigraph>
         <p>Octave était tenu à un grand nombre de démarches nécessaires auprès de grands-parents qu’il savait désapprouver extrêmement son mariage. Dans des circonstances ordinaires, rien n’eût été plus pénible pour lui. Il fût sorti malheureux et presque dégoûté du bonheur, des hôtels de ses illustres parents. À son grand étonnement, il observa, en remplissant ces devoirs, que rien ne lui était pénible ; c’est que rien ne lui inspirait plus d’intérêt. Il était mort au monde.</p>
         <p>Depuis l’inconstance d’Armance, les hommes étaient pour lui des êtres d’une espèce étrangère. Rien ne pouvait l’émouvoir, pas plus les malheurs de la vertu que la prospérité du crime. Une voix secrète lui disait : « Ces malheureux le sont moins que toi. »</p>
         <p>Octave s’acquitta avec une indifférence admirable de ce que la civilisation moderne a entassé de démarches sottes pour gâter un beau jour. Le mariage se fit.</p>
@@ -1291,26 +1287,6 @@
         <p>Octave avait eu le soin de déposer un testament semblable chez un notaire de Marseille. Il laissait tout ce dont il pouvait disposer à sa femme, sous la condition bizarre qu’elle se remarierait dans les vingt mois qui suivraient son décès. Si M<hi rend="sup">me</hi> Octave de Malivert ne jugeait pas à propos de remplir cette condition, il priait sa mère d’accepter sa fortune.</p>
         <p>Après avoir signé son testament en présence de tout l’équipage, Octave tomba dans une grande faiblesse et demanda les prières des agonisants, que quelques matelots italiens récitèrent auprès de lui. Il écrivit à Armance, et mit dans sa lettre celle qu’il avait eu le courage de lui écrire dans un café de Paris, et la lettre à son amie Méry de Tersan qu’il avait surprise dans la caisse de l’oranger. Jamais Octave n’avait été sous le charme de l’amour le plus tendre comme dans ce moment suprême. Excepté le genre de sa mort, il s’accorda le bonheur de tout dire à son Armance. Octave continua à languir pendant plus d’une semaine, chaque jour il se donnait le nouveau plaisir d’écrire à son amie. Il confia ses lettres à plusieurs matelots, qui lui promirent de les remettre eux-mêmes à son notaire à Marseille.</p>
         <p>Un mousse du haut de la vigie cria : <hi rend="i">Terre</hi> ! C’était le sol de la Grèce et les montagnes de la Morée que l’on apercevait à l’horizon. Un vent frais portait le vaisseau avec rapidité. Le nom de la Grèce réveilla le courage d’Octave : « Je te salue, se dit-il, ô terre des héros ! » Et à minuit, le 3 de mars, comme la lune se levait derrière le mont Kalos, un mélange d’opium et de digitale préparé par lui délivra doucement Octave de cette vie qui avait été pour lui si agitée. Au point du jour, on le trouva sans mouvement sur le pont, couché sur quelques cordages. Le sourire était sur ses lèvres, et sa rare beauté frappa jusqu’aux matelots chargés de l’ensevelir. Le genre de sa mort ne fut soupçonné en France que de la seule Armance. Peu après, le marquis de Malivert étant mort, Armance et M<hi rend="sup">me</hi> de Malivert prirent le voile dans le même couvent.</p>
-      </div>
-      <div>
-        <head>À propos de cette édition électronique</head>
-        <p rend="center noindent b">Texte libre de droits.</p>
-        <p rend="center noindent">Corrections, édition, conversion informatique et publication par le groupe :</p>
-        <p rend="center noindent i">Ebooks libres et gratuits</p>
-        <p rend="center noindent"><ref target="http://fr.groups.yahoo.com/group/ebooksgratuits">http://fr.groups.yahoo.com/group/ebooksgratuits</ref><lb/>
-        </p>
-        <p rend="center noindent">Adresse du site web du groupe : <lb/><ref target="http://www.ebooksgratuits.com/">http://www.ebooksgratuits.com/</ref></p>
-        <p rend="center noindent">—</p>
-        <p rend="center noindent b">Janvier 2009</p>
-        <p rend="center noindent">—</p>
-        <p rend="margin noindent b">– Élaboration de ce livre électronique :</p>
-        <p rend="margin noindent">Les membres de <hi rend="i">Ebooks libres et gratuits</hi> qui ont participé à l’élaboration de ce livre, sont : Jean-Marc, Coolmicro et Fred.</p>
-        <p rend="margin noindent b">– Dispositions :</p>
-        <p rend="margin noindent">Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement, <hi rend="u">à une fin non commerciale et non professionnelle</hi>. <hi rend="b">Tout lien vers notre site est bienvenu…</hi></p>
-        <p rend="margin noindent b">– Qualité :</p>
-        <p rend="margin noindent">Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l’original. Nous rappelons que c’est un travail d’amateurs non rétribués et que nous essayons de promouvoir la culture littéraire avec de maigres moyens.</p>
-        <p rend="center noindent i">Votre aide est la bienvenue !</p>
-        <p rend="center noindent">VOUS POUVEZ NOUS AIDER À FAIRE CONNAÎTRE CES CLASSIQUES LITTÉRAIRES.</p>
       </div>
     </body>
   </text>
